@@ -1,0 +1,21 @@
+# Power BI
+*.pbix
+*.pbit
+
+# Credentials / secrets
+.env
+*.secret
+secrets.json
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
