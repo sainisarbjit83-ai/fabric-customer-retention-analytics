@@ -1,0 +1,1006 @@
+CustomerID,CustomerName,Gender,Age,City,State,SignupDate,AcquisitionChannel,CustomerSegment
+C0001,Laura Martin,M,42.0,Sacramento,CA,2023-04-14,Online,Enterprise
+C0002,Chris Lee,F,59.0,Aurora,CO,2023-06-03,Referral,Standard
+C0003,Kevin Lee,F,40.0,San Antonio,TX,2024-10-16,Online,Standard
+C0004,Rachel Johnson,F,61.0,Seattle,WA,2025-01-27,Partner,Standard
+C0005,Nicole Wilson,F,54.0,Sacramento,CA,2025-06-30,Referral,Standard
+C0006,James Brown,F,54.0,San Antonio,TX,2025-06-12,Sales,Standard
+C0007,Amanda Johnson,M,59.0,Charlotte,NC,2024-07-09,Referral,Standard
+C0008,Ashley Martin,F,42.0,Dallas,TX,2025-09-26, online ,Standard
+C0009,Brian Wilson,F,62.0,Springfield,IL,2025-12-13,Partner,Standard
+C0010,Brian Brown,F,21.0,Jacksonville,FL,2025-08-02,Partner,Premium
+C0011,Laura Thomas,M,45.0,Tampa,FL,2023-02-14,Online,Premium
+C0012,Megan Anderson,F,48.0,Dallas,TX,2025-07-06,Referral,Standard
+C0013,Ashley Lee,M,50.0,Los Angeles,CA,2024-02-21,Online,Standard
+C0014,Nicole Clark,M,32.0,Spokane,WA,2023-03-11,Online,Standard
+C0015,Megan Williams,F,45.0,Spokane,WA,2026-04-10,Referral,Premium
+C0016,Robert Brown,M,22.0,Denver,CO,2023-04-19,Partner,Standard
+C0017,Emily Lewis,F,66.0,Chicago,IL,2024-08-19,Referral,Standard
+C0018,David Miller,F,51.0,Aurora,CO,2024-03-10,Online,Standard
+C0019,Nicole Davis,F,45.0,Rochester,NY,2024-07-02,Sales,Premium
+C0020,Jessica Jackson,F,43.0,Tampa,FL,2023-11-23,Online,Enterprise
+C0021,Lisa Jackson,M,56.0,Austin,TX,2025-08-28,Online,Premium
+C0022,John Lee,M,56.0,Tucson,AZ,2024-06-02,Referral,Standard
+C0023,William Moore,M,58.0,San Diego,CA,2025-08-02,Referral,Standard
+C0024,Megan Williams,F,26.0,Los Angeles,CA,2024-12-06,Online,Enterprise
+C0025,Ashley Wilson,M,51.0,Raleigh,NC,2023-12-20,ONLINE,Standard
+C0026,Lisa Lee,M,25.0,San Diego,CA,2024-08-06,Referral,Enterprise
+C0027,Ashley Taylor,M,60.0,Austin,TX,2026-02-18,Referral,Standard
+C0028,Jessica Smith,M,61.0,New York,NY,2025-12-11,Online,Standard
+C0029,Michael Martin,F,26.0,Buffalo,NY,2023-10-20,Partner,Premium
+C0030,Robert Williams,F,65.0,Boulder,CO,2023-10-04,Online,Standard
+C0031,Amanda Miller,F,43.0,Mesa,AZ,2026-03-01,Sales,Standard
+C0032,William Taylor,F,33.0,Albany,NY,2026-01-28,Online,Standard
+C0033,Daniel Young,F,28.0,Jacksonville,FL,2023-04-20,Sales,Premium
+C0034,Michael Taylor,M,36.0,Chicago,IL,2025-07-15,Partner,Standard
+C0035,Sarah Jackson,F,39.0,Atlanta,GA,2023-01-07,Online,Standard
+C0036,Sarah Harris,F,28.0,Durham,NC,2023-08-04,Referral,Premium
+C0037,Emily Garcia,M,69.0,Sacramento,CA,2024-01-20,Referral,Standard
+C0038,Kevin Smith,M,32.0,Charlotte,NC,2023-06-08,Partner,Standard
+C0039,James Lewis,F,58.0,Tampa,FL,2024-05-15,Partner,Premium
+C0040,Sarah Jackson,F,27.0,Austin,TX,2023-05-29,Sales,Standard
+C0041,Robert Williams,M,45.0,Raleigh,NC,2024-01-12,Online,Enterprise
+C0042,Lisa Smith,F,48.0,Charlotte,NC,2025-01-30,Online,Standard
+C0043,Daniel Smith,F,29.0,Springfield,IL,2023-08-06,Partner,Standard
+C0044,William Lee,F,21.0,Raleigh,NC,2023-05-11,Partner,Premium
+C0045,David Miller,F,58.0,Tacoma,WA,2026-01-24,Referral,Standard
+C0046,Michael Davis,F,41.0,Atlanta,GA,2025-02-21,Sales,Standard
+C0047,David Garcia,M,69.0,Mesa,AZ,2025-10-06,Online,Standard
+C0048,Lisa Thomas,M,28.0,Atlanta,GA,2025-09-16,Online,Standard
+C0049,Kevin Thomas,M,28.0,Charlotte,NC,2024-11-23,Online,Standard
+C0050,Chris Johnson,M,29.0,San Antonio,TX,2023-03-06,Referral, premium 
+C0051,Amanda Harris,M,69.0,Savannah,GA,2025-06-02,Sales,Standard
+C0052,Lisa Brown,F,32.0,Atlanta,GA,2023-10-27,Referral,Standard
+C0053,John Smith,M,66.0,Tampa,FL,2025-12-08,Partner,Standard
+C0054,Daniel Lewis,F,25.0,San Antonio,TX,2025-10-09,Sales,Enterprise
+C0055,Brian Thomas,F,51.0,Rochester,NY,2025-01-09,Online,Standard
+C0056,Robert Taylor,F,63.0,Naperville,IL,2024-07-09,Online,Premium
+C0057,Jessica Johnson,M,42.0,Orlando,FL,2023-07-18,Online,Standard
+C0058,James Davis,F,37.0,Tacoma,WA,2024-03-31,Partner,Standard
+C0059,Kevin Martin,F,62.0,Springfield,IL,2025-07-13,Referral,Premium
+C0060,Lisa Martin,M,60.0,Rochester,NY,2024-10-01,Referral,Standard
+C0061,Chris Smith,M,50.0,Houston,TX,2024-08-26,Online,Premium
+C0062,William Johnson,F,56.0,Savannah,GA,2023-04-12,Sales,Standard
+C0063,Nicole Brown,F,40.0,Raleigh,NC,2024-06-18,Partner,Enterprise
+C0064,Sarah Garcia,F,49.0,Chicago,IL,2023-04-25,Referral,Standard
+C0065,Ashley Smith,F,44.0,Austin,TX,2025-03-26,Partner,Premium
+C0066,James Anderson,M,50.0,Phoenix,AZ,2026-01-22,Online,Standard
+C0067,Sarah Anderson,F,56.0,Springfield,IL,2026-01-10,Partner,Standard
+C0068,Chris Clark,F,58.0,Springfield,IL,2023-11-21,Online,Standard
+C0069,Emily Young,M,25.0,Albany,NY,2024-10-28,Online,Premium
+C0070,Emily Thomas,F,66.0,Tacoma,WA,2025-07-25,Referral,Standard
+C0071,Nicole Smith,F,62.0,Boulder,CO,2024-05-23,Sales,Premium
+C0072,Michael Williams,M,49.0,Dallas,TX,2025-04-03,Online,Standard
+C0073,Brian Wilson,M,68.0,Springfield,IL,2024-01-14,Online,Enterprise
+C0074,Chris Lee,F,26.0,Tacoma,WA,2026-04-11,Sales,Standard
+C0075,Brian Smith,M,53.0,Naperville,IL,2023-01-29,Partner,Standard
+C0076,Megan Clark,F,22.0,,CO,2023-10-16,Online,Premium
+C0077,Emily Smith,F,35.0,Savannah,GA,2025-12-27,Online,Standard
+C0078,Brian Moore,F,60.0,Sacramento,CA,2023-10-14,Partner,Standard
+C0079,Brian Young,F,26.0,Boulder,CO,2025-10-12,Partner,Standard
+C0080,Lisa Jones,M,27.0,Boulder,CO,2024-08-28,Partner,Premium
+C0081,Rachel Wilson,M,60.0,San Jose,CA,2023-03-05,Online,Premium
+C0082,James Young,F,50.0,Houston,TX,2023-03-07,Referral,Standard
+C0083,Rachel Anderson,F,41.0,Miami,FL,2024-03-21,Online,Enterprise
+C0084,Ashley Anderson,F,59.0,San Diego,CA,2025-02-02,Referral,Standard
+C0085,Kevin Taylor,M,41.0,Tampa,FL,2024-10-07,Referral,Enterprise
+C0086,Emily Williams,M,45.0,Boulder,CO,2024-04-29,Referral,Standard
+C0087,Michael Lewis,M,25.0,Charlotte,NC,2025-01-07,Referral,Premium
+C0088,Nicole Wilson,M,41.0,Spokane,WA,2023-09-19,Referral,Standard
+C0089,John Garcia,M,44.0,Raleigh,NC,2023-06-27,Referral,Standard
+C0090,Ashley Jackson,F,52.0,Tampa,FL,2025-02-21,Online,Premium
+C0091,James Brown,M,46.0,Rochester,NY,2024-09-23,Referral,Premium
+C0092,Ashley Clark,M,66.0,Albany,NY,2024-08-27,Referral,Premium
+C0093,Robert Taylor,F,39.0,Orlando,FL,2023-02-19,Online,Premium
+C0094,Brian Johnson,M,34.0,Houston,TX,2024-02-05,Online,Standard
+C0095,Chris Lewis,M,42.0,Sacramento,CA,2025-04-27,Online,Standard
+C0096,David Moore,F,26.0,Savannah,GA,2024-03-13,Sales,Enterprise
+C0097,Laura Wilson,M,58.0,Spokane,WA,2023-06-22,Online,Premium
+C0098,Robert Smith,F,31.0,Naperville,IL,2024-09-22,Online,Standard
+C0099,Brian Lewis,F,67.0,Tacoma,WA,2023-08-29,Sales,Standard
+C0100,James Wilson,F,40.0,Atlanta,GA,2023-04-07,Partner,Standard
+C0101,Lisa Lewis,M,36.0,Seattle,WA,2023-10-20,Online,Standard
+C0102,Emily Garcia,M,45.0,Durham,NC,2024-12-04,Referral,Standard
+C0103,David Harris,F,,Tampa,FL,2024-10-29,Partner,Premium
+C0104,William Johnson,F,38.0,Boulder,CO,2024-10-09,Online,Premium
+C0105,Lisa Taylor,F,54.0,Albany,NY,2024-03-19,Sales,Standard
+C0106,Michael Clark,M,37.0,Tucson,AZ,2024-08-21,Referral,Standard
+C0107,Amanda Young,F,51.0,San Jose,CA,2024-04-14,Online,Standard
+C0108,Jessica Smith,F,66.0,Houston,TX,2024-06-21,Online,Standard
+C0109,John Wilson,M,29.0,Mesa,AZ,2024-09-22,Sales,Premium
+C0110,Rachel Anderson,F,58.0,Aurora,CO,2025-12-19,Partner,Enterprise
+C0111,Laura Anderson,F,24.0,Denver,CO,2024-08-31,Referral,Standard
+C0112,Nicole Martin,M,68.0,Chicago,IL,2026-03-27,Online,Premium
+C0113,Chris Moore,M,21.0,Charlotte,NC,2023-12-24,Partner,Standard
+C0114,Rachel Young,F,43.0,San Diego,CA,2026-03-19,Referral,Premium
+C0115,Sarah Jones,F,47.0,Boulder,CO,2023-11-16,Partner,Standard
+C0116,Sarah Davis,F,23.0,Raleigh,NC,2023-05-12,Partner,Premium
+C0117,Laura Smith,F,57.0,Boulder,CO,2024-04-17,Online,Standard
+C0118,Michael Moore,M,63.0,Savannah,GA,2023-01-06,Referral,Premium
+C0119,John Lee,M,55.0,Mesa,AZ,2025-01-02,Online,Premium
+C0120,James Miller,F,62.0,Boulder,CO,2023-12-25,Referral,Standard
+C0121,Jessica Taylor,F,63.0,Dallas,TX,2025-03-26,Online,Premium
+C0122,Daniel Harris,F,69.0,San Jose,CA,2023-12-22,Referral,Standard
+C0123,Ashley Brown,F,62.0,Houston,TX,2025-05-31,Online,Enterprise
+C0124,David Anderson,M,27.0,Phoenix,AZ,2024-03-14,Online,Standard
+C0125,John Miller,M,68.0,Tucson,AZ,2025-11-22,Referral,Enterprise
+C0126,Nicole Lee,F,47.0,Albany,NY,2023-12-08,Sales,Standard
+C0127,Robert Clark,F,35.0,Tucson,AZ,2026-03-26,Referral,Premium
+C0128,John Garcia,F,32.0,Chicago,IL,2024-01-22,Online,Premium
+C0129,Jessica Johnson,F,33.0,Sacramento,CA,2024-12-03,Referral,Standard
+C0130,Kevin Young,F,54.0,Chicago,IL,2025-09-04,Sales,Premium
+C0131,Emily Brown,F,36.0,Seattle,WA,2024-05-27,Sales,Standard
+C0132,Kevin Wilson,M,22.0,Boulder,CO,2026-02-25,Online,Standard
+C0133,David Thomas,M,69.0,San Diego,CA,2023-11-13,Online,Standard
+C0134,Rachel Williams,F,39.0,Mesa,AZ,2023-03-14,Partner,Standard
+C0135,Robert Anderson,M,32.0,Raleigh,NC,2023-07-01,Online,Premium
+C0136,Emily Smith,M,45.0,San Diego,CA,2024-08-10,Online,Standard
+C0137,Laura Anderson,F,46.0,Phoenix,AZ,2023-10-02,Online,Standard
+C0138,Rachel Martin,M,32.0,Rochester,NY,2024-02-01,Sales,Standard
+C0139,Lisa Clark,F,30.0,Seattle,WA,2024-12-25,Online,Enterprise
+C0140,Sarah Smith,F,30.0,Sacramento,CA,2023-02-07,Online,Premium
+C0141,David Johnson,F,32.0,Tacoma,WA,2025-04-04,Online,Premium
+C0142,James Moore,M,28.0,Augusta,GA,2025-07-16,Sales,Standard
+C0143,Kevin Thomas,M,68.0,Tampa,FL,2025-12-27,Online,Premium
+C0144,Michael Miller,F,60.0,Charlotte,NC,2024-12-21,Online,Standard
+C0145,Robert Harris,M,63.0,Denver,CO,2025-06-02,Online,Standard
+C0146,Megan Jackson,F,55.0,Buffalo,NY,2025-06-05,Online,Premium
+C0147,Ashley Jones,M,59.0,Dallas,TX,2025-03-15,Online,Standard
+C0148,Michael Young,M,21.0,Boulder,CO,2023-01-20,Sales,Standard
+C0149,Michael Thomas,F,25.0,Albany,NY,2024-05-13,Referral,Standard
+C0150,Chris Johnson,M,50.0,Phoenix,AZ,2023-12-20,Partner,Premium
+C0151,John Johnson,F,28.0,Dallas,TX,2025-10-13,Online,Premium
+C0152,Emily Thomas,F,40.0,Augusta,GA,2025-03-24,Partner,Standard
+C0153,Laura Jackson,F,28.0,Orlando,FL,2026-01-14,Online,Premium
+C0154,Amanda Taylor,M,40.0,Mesa,AZ,2023-04-23,Sales,Standard
+C0155,Megan Anderson,M,38.0,San Antonio,TX,2023-11-15,Online,Premium
+C0156,Nicole Lewis,M,31.0,Austin,TX,2024-07-17,Partner,Premium
+C0157,Amanda Wilson,F,25.0,Boulder,CO,2025-02-22,Partner,Standard
+C0158,Daniel Williams,F,65.0,Naperville,IL,2025-11-04,Partner,Standard
+C0159,David Wilson,F,43.0,Los Angeles,CA,2023-09-10,Online,Premium
+C0160,Kevin Clark,F,40.0,Raleigh,NC,2024-01-18,Referral,Standard
+C0161,Daniel Smith,F,49.0,Albany,NY,2024-08-28,Online,Standard
+C0162,Amanda Davis,F,27.0,Seattle,WA,2023-07-15,Partner,Standard
+C0163,Nicole Jackson,M,30.0,Los Angeles,CA,2024-07-21,Sales,Standard
+C0164,Lisa Jones,F,30.0,Springfield,IL,2024-09-18,Referral,Standard
+C0165,John Smith,M,25.0,San Antonio,TX,2023-10-21,Referral,Standard
+C0166,David Garcia,M,35.0,Denver,CO,2025-07-06,Sales,Enterprise
+C0167,Nicole Moore,F,38.0,San Antonio,TX,2024-12-07,Online,Standard
+C0168,David Thomas,M,25.0,Sacramento,CA,2025-10-11,Referral,Standard
+C0169,Emily Johnson,M,43.0,Phoenix,AZ,2023-05-09,Referral,Premium
+C0170,Chris Garcia,F,39.0,Augusta,GA,2024-04-30,Partner,Premium
+C0171,David Moore,F,41.0,Los Angeles,CA,2023-10-07,Online,Standard
+C0172,Emily Harris,F,29.0,Savannah,GA,2024-05-11,Referral,Standard
+C0173,Chris Williams,F,49.0,Augusta,GA,2025-06-15,Referral,Standard
+C0174,Robert Jones,M,28.0,New York,NY,2026-02-02,Sales,Premium
+C0175,James Garcia,M,43.0,Rochester,NY,2024-04-16,Referral,Standard
+C0176,Amanda Williams,M,67.0,Phoenix,AZ,2024-08-01,Sales,Standard
+C0177,Ashley Young,M,29.0,Buffalo,NY,2025-11-15,Online,Enterprise
+C0178,John Miller,F,50.0,Los Angeles,CA,2024-07-12,Referral,Standard
+C0179,Emily Harris,F,27.0,Boulder,CO,2025-09-07,Referral,Standard
+C0180,Brian Lewis,F,37.0,Springfield,IL,2023-03-02,Online,Premium
+C0181,William Johnson,F,52.0,Boulder,CO,2025-09-19,Sales,Standard
+C0182,Jessica Moore,F,21.0,Tampa,FL,2026-04-07,Online,Standard
+C0183,Lisa Lee,M,42.0,New York,NY,2025-08-03,Online,Enterprise
+C0184,William Miller,M,56.0,Boulder,CO,2024-07-07,Partner,Standard
+C0185,Lisa Moore,F,46.0,San Diego,CA,2024-10-28,Partner,Premium
+C0186,Ashley Smith,F,43.0,Austin,TX,2025-12-06,Partner,Enterprise
+C0187,James Lee,F,29.0,Seattle,WA,2024-03-09,Online,Premium
+C0188,Amanda Wilson,F,48.0,Charlotte,NC,2025-05-13,Referral,Enterprise
+C0189,Daniel Brown,F,40.0,Buffalo,NY,2025-04-15,Referral,Standard
+C0190,Brian Johnson,M,53.0,Seattle,WA,2025-02-25,Partner,Standard
+C0191,Robert Harris,M,28.0,Augusta,GA,2026-02-01,Online,Premium
+C0192,Emily Williams,F,34.0,Augusta,GA,2023-06-16,Online,Premium
+C0193,Kevin Jackson,M,68.0,Raleigh,NC,2024-10-17,Sales,Premium
+C0194,Chris Garcia,M,51.0,Chicago,IL,2024-01-20,Sales,Standard
+C0195,Megan Taylor,M,47.0,Tacoma,WA,2025-04-20,Referral,Standard
+C0196,Emily Lewis,F,62.0,Atlanta,GA,2024-01-22,Referral,Standard
+C0197,William Harris,M,60.0,Seattle,WA,2024-04-28,Sales,Premium
+C0198,Kevin Young,M,57.0,Durham,NC,2025-07-06,Partner,Standard
+C0199,Lisa Martin,M,50.0,Aurora,CO,2025-01-30,Online,Standard
+C0200,Amanda Wilson,M,31.0,Tampa,FL,2025-09-06,Sales,Standard
+C0201,John Smith,M,43.0,Albany,NY,2023-06-11,Online,Premium
+C0202,William Williams,M,40.0,Savannah,GA,2026-04-13,Online,Standard
+C0203,Daniel Wilson,F,64.0,Sacramento,CA,2023-12-14,Online,Standard
+C0204,Ashley Lee,M,34.0,Raleigh,NC,2025-11-27,Partner,Standard
+C0205,Brian Thomas,M,28.0,Springfield,IL,2024-08-30,Referral,Premium
+C0206,Laura Martin,M,69.0,Phoenix,AZ,2026-04-14,Referral,Standard
+C0207,Chris Williams,F,36.0,Denver,CO,2023-12-23,Referral,Standard
+C0208,Amanda Martin,F,38.0,Seattle,WA,2025-08-02,Partner,Premium
+C0209,Daniel Davis,M,32.0,Durham,NC,2025-05-07,Referral,Premium
+C0210,Jessica Williams,F,64.0,Augusta,GA,2023-04-26,Online,Standard
+C0211,Sarah Taylor,M,32.0,Miami,FL,2023-04-15,Partner,Standard
+C0212,Robert Martin,F,61.0,Tacoma,WA,2023-07-21,Online,Premium
+C0213,Brian Thomas,F,43.0,Jacksonville,FL,2023-02-22,Online,Premium
+C0214,Ashley Garcia,M,57.0,Los Angeles,CA,2024-08-28,Partner,Standard
+C0215,Amanda Wilson,M,51.0,New York,NY,2025-02-17,Online,Standard
+C0216,Robert Brown,M,29.0,Chicago,IL,2025-09-14,Online,Enterprise
+C0217,Michael Young,F,29.0,Savannah,GA,2026-01-06,Sales,Enterprise
+C0218,Nicole Clark,M,30.0,Rochester,NY,2023-09-22,Partner,Standard
+C0219,Chris Smith,F,57.0,Tampa,FL,2024-04-05,Partner,Standard
+C0220,James Smith,F,50.0,Savannah,GA,2024-08-06,Online,Standard
+C0221,Laura Williams,F,38.0,Tampa,FL,2023-07-09,Online,Standard
+C0222,Emily Miller,M,48.0,Rochester,NY,2025-03-22,Online,Standard
+C0223,David Thomas,F,58.0,San Jose,CA,2025-07-22,Sales,Standard
+C0224,Brian Anderson,F,66.0,Austin,TX,2023-03-13,Online,Standard
+C0225,Emily Miller,F,22.0,Seattle,WA,2025-12-06,Online,Standard
+C0226,James Brown,M,27.0,San Jose,CA,2025-10-29,Online,Standard
+C0227,Sarah Taylor,M,37.0,Orlando,FL,2026-01-20,Online,Premium
+C0228,John Lewis,F,25.0,Boulder,CO,2023-05-09,Online,Premium
+C0229,Michael Brown,F,68.0,Spokane,WA,2023-05-05,Referral,Enterprise
+C0230,Daniel Smith,M,40.0,Atlanta,GA,2024-01-24,Sales,Standard
+C0231,Brian Lewis,M,60.0,Durham,NC,2024-01-27,Referral,Enterprise
+C0232,Nicole Davis,F,40.0,Spokane,WA,2024-12-02,Online,Standard
+C0233,Emily Young,M,60.0,Jacksonville,FL,2023-02-07,Online,Standard
+C0234,Daniel Wilson,F,52.0,Tucson,AZ,2026-01-17,Sales,Standard
+C0235,Robert Garcia,M,68.0,Springfield,IL,2024-04-05,Partner,Standard
+C0236,Amanda Miller,F,37.0,Seattle,WA,2024-03-30,Online,Standard
+C0237,Chris Young,M,63.0,Phoenix,AZ,2025-07-25,Partner,Standard
+C0238,James Harris,F,66.0,Phoenix,AZ,2024-12-17,Partner,Standard
+C0239,Kevin Harris,M,26.0,Boulder,CO,2026-01-10,Online,Standard
+C0240,Kevin Martin,F,48.0,Phoenix,AZ,2023-02-01,Partner,Premium
+C0241,Lisa Jones,M,43.0,Miami,FL,2024-11-12,Online,Premium
+C0242,Nicole Davis,F,48.0,Chicago,IL,2023-11-21,Online,Premium
+C0243,Lisa Jones,F,32.0,San Antonio,TX,2023-04-03,Sales,Standard
+C0244,Kevin Thomas,F,64.0,Raleigh,NC,2024-03-25,Online,Premium
+C0245,Lisa Jones,F,52.0,Mesa,AZ,2025-05-25,Referral,Standard
+C0246,Michael Wilson,M,26.0,Boulder,CO,2025-08-11,Partner,Standard
+C0247,Robert Jackson,F,24.0,Chicago,IL,2026-02-02,Referral,Premium
+C0248,Ashley Brown,F,53.0,Phoenix,AZ,2024-03-28,Referral,Standard
+C0249,Lisa Young,F,66.0,Phoenix,AZ,2024-06-20,Online,Standard
+C0250,Emily Johnson,F,67.0,Dallas,TX,2024-04-30,Partner,Enterprise
+C0251,Sarah Thomas,F,69.0,Jacksonville,FL,2025-11-27,Referral,Standard
+C0252,Amanda Smith,M,47.0,Aurora,CO,2026-04-07,Sales,Standard
+C0253,Chris Taylor,M,46.0,Jacksonville,FL,2024-04-11,Sales,Premium
+C0254,Kevin Williams,M,23.0,Los Angeles,CA,2025-09-28,Online,Standard
+C0255,Kevin Clark,F,55.0,San Diego,CA,2025-08-09,Online,Enterprise
+C0256,Jessica Miller,F,30.0,Tacoma,WA,2023-12-10,Sales,Standard
+C0257,Rachel Williams,F,47.0,Boulder,CO,2023-06-02,Partner,Enterprise
+C0258,William Williams,F,59.0,Charlotte,NC,2024-10-16,Referral,Premium
+C0259,Nicole Wilson,F,58.0,Orlando,FL,2024-07-01,Online,Standard
+C0260,Emily Davis,M,25.0,Spokane,WA,2023-04-03,Partner,Standard
+C0261,Kevin Harris,F,25.0,Dallas,TX,2024-01-14,Online,Enterprise
+C0262,Brian Jones,M,46.0,Houston,TX,2026-01-28,Sales,Standard
+C0263,John Davis,M,66.0,Phoenix,AZ,2023-06-28,Referral,Enterprise
+C0264,Jessica Taylor,F,51.0,San Antonio,TX,2023-08-31,Partner,Premium
+C0265,Rachel Moore,F,27.0,Aurora,CO,2023-05-15,Online,Standard
+C0266,William Lewis,F,39.0,San Diego,CA,2025-07-13,Referral,Standard
+C0267,Robert Brown,F,29.0,Boulder,CO,2023-07-14,Online,Premium
+C0268,Kevin Brown,F,66.0,Spokane,WA,2023-08-14,Online,Standard
+C0269,James Smith,F,66.0,Tucson,AZ,2023-11-29,Referral,Standard
+C0270,Kevin Wilson,F,24.0,Durham,NC,2024-12-12,Online,Premium
+C0271,Sarah Thomas,F,21.0,Aurora,CO,2024-08-16,Referral,Standard
+C0272,Brian Harris,F,52.0,Augusta,GA,2025-07-27,Referral,Premium
+C0273,Rachel Lee,F,35.0,Austin,TX,2024-06-05,Partner,Enterprise
+C0274,Chris Davis,F,41.0,Aurora,CO,2025-09-01,Referral,Premium
+C0275,Lisa Taylor,M,50.0,Spokane,WA,2024-02-24,Online,Premium
+C0276,Michael Jackson,M,64.0,Houston,TX,2023-11-24,Online,Enterprise
+C0277,Emily Garcia,M,40.0,Atlanta,GA,2024-01-29,Sales,Premium
+C0278,Emily Jackson,F,29.0,Mesa,AZ,2024-03-05,Referral,Standard
+C0279,Jessica Jones,M,39.0,New York,NY,2025-04-28,Partner,Standard
+C0280,Daniel Anderson,M,59.0,Tucson,AZ,2025-06-16,Partner,Standard
+C0281,Brian Garcia,M,37.0,Tacoma,WA,2023-08-07,Referral,Standard
+C0282,Chris Jones,F,57.0,Dallas,TX,2024-01-12,Online,Standard
+C0283,Daniel Jackson,M,63.0,San Diego,CA,2025-12-16,Partner,Enterprise
+C0284,Amanda Anderson,F,52.0,Miami,FL,2025-11-06,Sales,Premium
+C0285,Rachel Harris,F,45.0,Spokane,WA,2024-03-06,Online,Standard
+C0286,Ashley Anderson,M,45.0,Tacoma,WA,2024-05-03,Referral,Standard
+C0287,Brian Young,M,55.0,Denver,CO,2023-08-25,Partner,Enterprise
+C0288,Megan Clark,M,64.0,Chicago,IL,2024-01-13,Referral,Standard
+C0289,William Moore,F,42.0,Savannah,GA,2026-04-08,Online,Standard
+C0290,David Brown,F,23.0,Tucson,AZ,2026-02-13,Referral,Premium
+C0291,Megan Martin,M,57.0,Los Angeles,CA,2023-09-28,Online,Enterprise
+C0292,Laura Williams,M,54.0,Augusta,GA,2025-09-04,Online,Standard
+C0293,Nicole Thomas,M,21.0,Buffalo,NY,2026-03-29,Online,Premium
+C0294,William Lee,F,39.0,Spokane,WA,2025-09-29,Online,Standard
+C0295,Ashley Davis,F,64.0,Phoenix,AZ,2023-09-08,Referral,Premium
+C0296,Laura Johnson,M,40.0,Orlando,FL,2025-06-15,Online,Standard
+C0297,Emily Thomas,M,42.0,Austin,TX,2025-06-08,Referral,Premium
+C0298,Michael Young,M,41.0,Savannah,GA,2024-04-29,Sales,Standard
+C0299,Chris Johnson,F,68.0,Charlotte,NC,2024-05-11,Online,Standard
+C0300,Daniel Anderson,M,35.0,Seattle,WA,2025-08-13,Sales,Premium
+C0301,Jessica Moore,M,26.0,Denver,CO,2023-11-27,Sales,Standard
+C0302,Kevin Jones,M,62.0,Houston,TX,2024-04-24,Online,Standard
+C0303,William Wilson,F,28.0,Chicago,IL,2024-04-16,Sales,Premium
+C0304,Sarah Jones,F,23.0,Durham,NC,2025-11-06,Online,Premium
+C0305,Laura Moore,M,26.0,Mesa,AZ,2023-07-10,Partner,Standard
+C0306,Sarah Clark,M,46.0,Durham,NC,2025-06-12,Partner,Premium
+C0307,Jessica Wilson,M,69.0,Denver,CO,2024-01-06,Referral,Standard
+C0308,Rachel Davis,F,59.0,Mesa,AZ,2025-12-31,Online,Premium
+C0309,Megan Garcia,F,60.0,Miami,FL,2024-02-09,Sales,Premium
+C0310,Brian Lewis,M,69.0,Springfield,IL,2024-02-27,Referral,Standard
+C0311,Nicole Jones,M,50.0,San Diego,CA,2025-01-08,Online,Premium
+C0312,William Davis,F,69.0,Savannah,GA,2025-11-26,Online,Premium
+C0313,Robert Jones,F,35.0,Tampa,FL,2026-01-26,Online,Standard
+C0314,Kevin Jackson,M,48.0,Savannah,GA,2024-08-17,Online,Standard
+C0315,Rachel Lee,M,62.0,Savannah,GA,2024-05-14,Online,Premium
+C0316,James Garcia,F,63.0,Charlotte,NC,2025-06-14,Sales,Standard
+C0317,James Wilson,F,60.0,Phoenix,AZ,2025-08-12,Online,Enterprise
+C0318,Daniel Jackson,M,52.0,Orlando,FL,2025-06-11,Referral,Standard
+C0319,Daniel Johnson,F,36.0,Dallas,TX,2023-01-21,Partner,Standard
+C0320,Nicole Thomas,M,27.0,Atlanta,GA,2026-03-12,Sales,Enterprise
+C0321,Robert Harris,M,35.0,Atlanta,GA,2023-06-09,Online,Standard
+C0322,Sarah Young,M,24.0,Los Angeles,CA,2023-06-09,Partner,Standard
+C0323,Laura Smith,F,41.0,Sacramento,CA,2024-01-05,Referral,Premium
+C0324,Daniel Wilson,F,37.0,Denver,CO,2024-07-15,Online,Premium
+C0325,Jessica Wilson,M,58.0,Chicago,IL,2025-08-17,Online,Premium
+C0326,William Clark,F,24.0,Augusta,GA,2025-07-07,Online,Standard
+C0327,Megan Martin,F,26.0,Seattle,WA,2026-03-27,Online,Standard
+C0328,Jessica Moore,M,50.0,Phoenix,AZ,2025-01-18,Online,Premium
+C0329,Megan Thomas,F,50.0,Denver,CO,2025-06-20,Referral,Standard
+C0330,Nicole Jones,M,42.0,Spokane,WA,2025-06-10,Online,Premium
+C0331,James Smith,F,68.0,Tacoma,WA,2024-10-10,Referral,Enterprise
+C0332,Kevin Anderson,F,46.0,Tacoma,WA,2024-12-23,Partner,Standard
+C0333,James Martin,M,46.0,Spokane,WA,2024-02-06,Referral,Enterprise
+C0334,James Anderson,F,29.0,Tacoma,WA,2023-09-18,Online,Standard
+C0335,Daniel Davis,F,47.0,Boulder,CO,2025-05-01,Referral,Standard
+C0336,Michael Lewis,F,29.0,San Diego,CA,2025-01-21,Online,Premium
+C0337,Daniel Garcia,F,28.0,New York,NY,2023-10-27,Referral,Premium
+C0338,Lisa Harris,M,69.0,Durham,NC,2023-09-26,Online,Standard
+C0339,Jessica Moore,F,57.0,Boulder,CO,2023-01-11,Referral,Premium
+C0340,Chris Clark,M,66.0,Charlotte,NC,2023-09-02,Referral,Premium
+C0341,Robert Lewis,M,32.0,Jacksonville,FL,2024-06-22,Sales,Premium
+C0342,Nicole Garcia,M,36.0,Raleigh,NC,2024-10-18,Referral,Standard
+C0343,William Wilson,M,54.0,Mesa,AZ,2025-08-27,Online,Standard
+C0344,Daniel Brown,F,62.0,Albany,NY,2024-06-19,Online,Premium
+C0345,Ashley Brown,M,68.0,Charlotte,NC,2023-05-15,Partner,Standard
+C0346,Megan Johnson,M,23.0,San Antonio,TX,2024-11-29,Online,Premium
+C0347,Emily Taylor,F,32.0,Austin,TX,2025-03-20,Online,Premium
+C0348,William Clark,M,21.0,Tacoma,WA,2023-08-03,Sales,Standard
+C0349,Emily Clark,M,60.0,Aurora,CO,2023-06-19,Referral,Enterprise
+C0350,Rachel Anderson,F,35.0,Naperville,IL,2024-07-26,Online,Standard
+C0351,John Williams,M,44.0,Naperville,IL,2024-03-06,Referral,Premium
+C0352,David Moore,F,59.0,San Jose,CA,2025-08-30,Partner,Standard
+C0353,Lisa Moore,F,55.0,Atlanta,GA,2023-08-02,Online,Standard
+C0354,Emily Wilson,M,29.0,Los Angeles,CA,2025-09-16,Sales,Standard
+C0355,Kevin Taylor,M,35.0,Boulder,CO,2024-09-14,Online,Premium
+C0356,Chris Young,M,65.0,Charlotte,NC,2026-03-10,Referral,Standard
+C0357,Brian Johnson,F,66.0,San Jose,CA,2024-07-31,Referral,Standard
+C0358,Megan Jackson,F,24.0,Spokane,WA,2025-05-25,Partner,Standard
+C0359,James Taylor,M,66.0,Naperville,IL,2023-06-06,Online,Standard
+C0360,Amanda Jones,F,43.0,Springfield,IL,2026-02-05,Partner,Standard
+C0361,Rachel Martin,M,30.0,Durham,NC,2025-07-31,Referral,Enterprise
+C0362,Michael Garcia,M,54.0,Tampa,FL,2026-03-30,Online,Standard
+C0363,Megan Clark,M,36.0,Denver,CO,2024-05-13,Partner,Standard
+C0364,James Miller,M,62.0,Spokane,WA,2024-09-16,Partner,Standard
+C0365,Nicole Garcia,F,30.0,Atlanta,GA,2024-02-28,Referral,Standard
+C0366,Jessica Brown,M,54.0,Atlanta,GA,2023-02-26,Online,Standard
+C0367,Daniel Martin,M,47.0,Tampa,FL,2023-11-19,Online,Premium
+C0368,Robert Davis,M,52.0,Jacksonville,FL,2023-05-11,Online,Standard
+C0369,Lisa Miller,M,58.0,Albany,NY,2023-01-08,Referral,Standard
+C0370,Michael Smith,F,46.0,Albany,NY,2024-02-18,Referral,Standard
+C0371,Laura Harris,F,36.0,Los Angeles,CA,2026-03-21,Partner,Standard
+C0372,Laura Lee,F,51.0,Denver,CO,2026-01-19,Sales,Standard
+C0373,Daniel Young,F,47.0,New York,NY,2025-08-10,Sales,Standard
+C0374,Sarah Anderson,M,62.0,Rochester,NY,2024-01-24,Referral,Enterprise
+C0375,Lisa Smith,M,31.0,Miami,FL,2025-05-21,Online,Standard
+C0376,John Johnson,F,41.0,Charlotte,NC,2026-01-21,Referral,Enterprise
+C0377,Jessica Clark,F,56.0,Durham,NC,2023-07-15,Online,Premium
+C0378,Rachel Davis,M,47.0,Spokane,WA,2026-03-17,Online,Standard
+C0379,John Wilson,M,48.0,Dallas,TX,2025-05-07,Online,Premium
+C0380,Amanda Garcia,F,38.0,Aurora,CO,2024-02-23,Partner,Standard
+C0381,Amanda Williams,F,23.0,Aurora,CO,2023-11-15,Sales,Standard
+C0382,Chris Smith,F,45.0,Tampa,FL,2023-05-29,Online,Premium
+C0383,Michael Garcia,F,65.0,Albany,NY,2023-09-29,Partner,Premium
+C0384,Megan Young,M,37.0,Aurora,CO,2023-07-15,Referral,Standard
+C0385,Emily Wilson,F,38.0,Chicago,IL,2023-03-30,Online,Standard
+C0386,Kevin Williams,F,32.0,Raleigh,NC,2023-11-25,Online,Standard
+C0387,Emily Lewis,M,41.0,Orlando,FL,2026-03-22,Online,Standard
+C0388,William Smith,M,30.0,Buffalo,NY,2025-06-26,Sales,Enterprise
+C0389,James Lee,F,66.0,San Diego,CA,2023-02-09,Partner,Premium
+C0390,Lisa Clark,M,42.0,Chicago,IL,2025-07-09,Partner,Standard
+C0391,Kevin Anderson,M,66.0,Sacramento,CA,2024-06-18,Online,Premium
+C0392,Michael Smith,F,58.0,Naperville,IL,2025-08-17,Referral,Premium
+C0393,Sarah Lee,M,68.0,Buffalo,NY,2025-10-19,Referral,Standard
+C0394,Nicole Davis,F,41.0,Los Angeles,CA,2025-11-21,Online,Premium
+C0395,Daniel Lee,M,57.0,Raleigh,NC,2023-03-04,Online,Standard
+C0396,John Brown,F,38.0,Tacoma,WA,2024-11-09,Referral,Premium
+C0397,Jessica Martin,F,21.0,Durham,NC,2024-08-19,Partner,Standard
+C0398,Kevin Taylor,F,29.0,Charlotte,NC,2025-09-08,Referral,Standard
+C0399,Kevin Lewis,M,38.0,Houston,TX,2024-04-04,Online,Standard
+C0400,Emily Harris,M,24.0,Springfield,IL,2024-09-06,Online,Premium
+C0401,Michael Davis,F,33.0,Albany,NY,2023-11-07,Online,Standard
+C0402,Robert Jackson,M,42.0,Austin,TX,2023-07-07,Online,Enterprise
+C0403,Lisa Miller,F,33.0,Springfield,IL,2025-07-14,Online,Standard
+C0404,Ashley Lewis,F,67.0,Raleigh,NC,2024-01-13,Online,Standard
+C0405,Daniel Miller,M,48.0,Naperville,IL,2025-10-27,Partner,Standard
+C0406,Ashley Smith,M,53.0,Miami,FL,2024-02-11,Partner,Standard
+C0407,Kevin Clark,F,40.0,Naperville,IL,2024-08-08,Online,Standard
+C0408,Rachel Taylor,M,35.0,San Antonio,TX,2023-03-14,Online,Standard
+C0409,Amanda Brown,M,55.0,Denver,CO,2024-01-04,Online,Standard
+C0410,Megan Taylor,F,58.0,Denver,CO,2024-03-30,Referral,Enterprise
+C0411,James Williams,F,65.0,Jacksonville,FL,2024-02-26,Referral,Premium
+C0412,James Young,F,43.0,Los Angeles,CA,2023-04-22,Referral,Standard
+C0413,Laura Smith,F,24.0,Naperville,IL,2025-09-27,Referral,Premium
+C0414,Daniel Lee,F,62.0,Savannah,GA,2025-11-08,Online,Standard
+C0415,David Brown,F,57.0,Springfield,IL,2024-08-09,Online,Standard
+C0416,Chris Jackson,M,31.0,Spokane,WA,2023-04-23,Sales,Premium
+C0417,Emily Garcia,M,30.0,Sacramento,CA,2023-07-17,Referral,Standard
+C0418,William Garcia,F,22.0,Chicago,IL,2025-05-24,Online,Standard
+C0419,Chris Young,F,36.0,Durham,NC,2023-09-11,Referral,Standard
+C0420,Sarah Miller,F,46.0,Tacoma,WA,2024-06-01,Referral,Premium
+C0421,Nicole Harris,M,40.0,Aurora,CO,2023-01-04,Online,Standard
+C0422,Jessica Brown,M,58.0,San Antonio,TX,2024-08-18,Sales,Standard
+C0423,Sarah Smith,M,57.0,Charlotte,NC,2023-12-18,Sales,Standard
+C0424,Michael Brown,M,49.0,Orlando,FL,2024-08-20,Referral,Standard
+C0425,Brian Miller,M,57.0,Buffalo,NY,2023-04-26,Sales,Standard
+C0426,Ashley Thomas,F,24.0,Denver,CO,2023-07-24,Online,Premium
+C0427,Jessica Smith,F,21.0,Charlotte,NC,2026-04-03,Partner,Standard
+C0428,Robert Smith,F,23.0,Savannah,GA,2025-10-21,Online,Standard
+C0429,Daniel Garcia,F,64.0,Springfield,IL,2023-02-03,Sales,Standard
+C0430,Ashley Harris,F,23.0,Phoenix,AZ,2024-07-27,Sales,Premium
+C0431,Megan Lee,M,61.0,Raleigh,NC,2023-03-15,Referral,Standard
+C0432,Daniel Miller,F,35.0,Albany,NY,2023-10-29,Online,Standard
+C0433,Rachel Jones,F,49.0,Atlanta,GA,2024-06-26,Partner,Standard
+C0434,Daniel Brown,F,21.0,Denver,CO,2023-02-26,Partner,Enterprise
+C0435,John Miller,F,26.0,Miami,FL,2025-10-16,Partner,Standard
+C0436,Ashley Smith,M,50.0,Phoenix,AZ,2026-04-04,Online,Standard
+C0437,Michael Davis,F,50.0,Tucson,AZ,2023-09-23,Partner,Premium
+C0438,Amanda Harris,M,33.0,Springfield,IL,2024-10-29,Online,Standard
+C0439,Kevin Taylor,F,65.0,Mesa,AZ,2024-08-22,Referral,Standard
+C0440,Robert Williams,M,32.0,Spokane,WA,2024-09-25,Online,Enterprise
+C0441,Michael Johnson,M,57.0,Naperville,IL,2025-10-02,Sales,Premium
+C0442,Michael Johnson,M,54.0,Sacramento,CA,2025-01-27,Partner,Premium
+C0443,Chris Clark,F,43.0,Atlanta,GA,2026-01-11,Sales,Standard
+C0444,Emily Martin,M,42.0,Boulder,CO,2025-06-26,Sales,Standard
+C0445,David Martin,F,37.0,San Diego,CA,2025-10-02,Online,Standard
+C0446,Rachel Thomas,F,49.0,Tucson,AZ,2025-02-27,Partner,Premium
+C0447,Laura Lee,F,67.0,Tampa,FL,2023-01-31,Online,Standard
+C0448,Brian Taylor,F,63.0,Aurora,CO,2025-03-25,Online,Standard
+C0449,David Smith,F,65.0,San Antonio,TX,2024-03-31,Referral,Standard
+C0450,Chris Wilson,F,63.0,Phoenix,AZ,2025-05-17,Referral,Standard
+C0451,Sarah Lee,M,39.0,New York,NY,2023-07-12,Sales,Standard
+C0452,Nicole Jones,F,26.0,New York,NY,2024-02-10,Partner,Standard
+C0453,Laura Harris,F,49.0,Atlanta,GA,2026-01-13,Sales,Standard
+C0454,Emily Johnson,F,66.0,Boulder,CO,2025-11-26,Referral,Standard
+C0455,David Jackson,F,54.0,Aurora,CO,2023-08-26,Partner,Enterprise
+C0456,Lisa Harris,F,34.0,Sacramento,CA,2023-03-05,Sales,Enterprise
+C0457,James Lee,F,64.0,San Diego,CA,2025-03-30,Online,Standard
+C0458,Chris Jones,M,61.0,Tacoma,WA,2023-06-24,Online,Standard
+C0459,David Davis,M,40.0,Raleigh,NC,2025-08-27,Referral,Enterprise
+C0460,Daniel Brown,F,65.0,New York,NY,2025-12-18,Partner,Premium
+C0461,William Moore,F,46.0,Mesa,AZ,2024-09-23,Sales,Standard
+C0462,Emily Lee,M,39.0,San Diego,CA,2023-01-15,Referral,Standard
+C0463,Daniel Taylor,M,61.0,Los Angeles,CA,2023-06-15,Online,Enterprise
+C0464,Daniel Brown,F,36.0,Mesa,AZ,2023-12-19,Referral,Standard
+C0465,William Lee,F,36.0,Austin,TX,2024-10-20,Online,Standard
+C0466,Jessica Anderson,F,22.0,Boulder,CO,2025-01-11,Partner,Premium
+C0467,James Martin,F,36.0,Orlando,FL,2024-07-25,Online,Premium
+C0468,Sarah Young,M,21.0,San Jose,CA,2024-10-31,Partner,Premium
+C0469,James Brown,F,33.0,Rochester,NY,2025-08-19,Online,Enterprise
+C0470,Amanda Smith,M,61.0,Savannah,GA,2023-04-03,Online,Standard
+C0471,Daniel Clark,M,31.0,Denver,CO,2023-08-29,Referral,Premium
+C0472,William Clark,F,52.0,Spokane,WA,2023-05-30,Online,Enterprise
+C0473,Sarah Davis,M,66.0,Spokane,WA,2024-11-13,Referral,Premium
+C0474,James Anderson,F,57.0,Raleigh,NC,2023-02-07,Online,Premium
+C0475,David Lee,F,23.0,Savannah,GA,2023-12-30,Partner,Standard
+C0476,Robert Lee,M,34.0,Atlanta,GA,2024-08-16,Online,Premium
+C0477,Brian Lewis,F,38.0,Mesa,AZ,2025-12-27,Online,Enterprise
+C0478,Kevin Thomas,M,41.0,Durham,NC,2024-11-03,Online,Standard
+C0479,David Young,M,49.0,Aurora,CO,2025-09-26,Referral,Standard
+C0480,Emily Wilson,M,43.0,Savannah,GA,2023-09-09,Partner,Standard
+C0481,Chris Harris,F,69.0,Springfield,IL,2023-12-11,Online,Premium
+C0482,Robert Jackson,F,60.0,Atlanta,GA,2025-03-08,Partner,Enterprise
+C0483,Daniel Jones,F,40.0,Houston,TX,2023-03-22,Sales,Standard
+C0484,Daniel Thomas,F,26.0,Spokane,WA,2023-09-28,Partner,Standard
+C0485,Amanda Thomas,M,29.0,Raleigh,NC,2024-11-06,Sales,Standard
+C0486,Chris Thomas,M,43.0,Atlanta,GA,2025-01-07,Referral,Standard
+C0487,Lisa Miller,F,32.0,Tacoma,WA,2023-05-26,Partner,Premium
+C0488,Sarah Miller,F,60.0,Tacoma,WA,2025-10-21,Online,Standard
+C0489,Jessica Lee,F,38.0,Denver,CO,2025-06-09,Online,Standard
+C0490,Emily Lewis,M,39.0,Denver,CO,2025-11-16,Sales,Premium
+C0491,Emily Harris,F,47.0,Dallas,TX,2026-02-06,Sales,Premium
+C0492,Megan Taylor,M,40.0,Rochester,NY,2025-09-01,Partner,Standard
+C0493,Rachel Miller,M,38.0,Phoenix,AZ,2024-11-01,Sales,Standard
+C0494,Robert Jones,F,27.0,Denver,CO,2025-10-29,Online,Standard
+C0495,Nicole Wilson,M,41.0,Tucson,AZ,2024-09-12,Partner,Standard
+C0496,Megan Wilson,M,29.0,Phoenix,AZ,2025-06-07,Partner,Standard
+C0497,Amanda Taylor,F,65.0,Dallas,TX,2025-04-29,Referral,Standard
+C0498,Ashley Garcia,F,43.0,Jacksonville,FL,2023-08-06,Referral,Premium
+C0499,Ashley Young,M,35.0,Sacramento,CA,2024-10-02,Partner,Standard
+C0500,Lisa Lee,M,31.0,San Antonio,TX,2023-08-12,Referral,Standard
+C0501,David Smith,F,47.0,Durham,NC,2023-05-11,Sales,Premium
+C0502,Kevin Clark,F,55.0,San Jose,CA,2025-03-19,Referral,Premium
+C0503,Kevin Moore,M,49.0,Chicago,IL,2023-02-02,Sales,Standard
+C0504,Sarah Martin,M,62.0,Sacramento,CA,2026-04-04,Online,Premium
+C0505,Rachel Brown,M,31.0,Jacksonville,FL,2024-12-23,Referral,Standard
+C0506,Michael Garcia,F,27.0,Buffalo,NY,2023-05-21,Online,Premium
+C0507,Amanda Miller,M,58.0,Tampa,FL,2023-10-14,Referral,Enterprise
+C0508,Lisa Davis,F,61.0,Boulder,CO,2023-04-01,Partner,Enterprise
+C0509,Brian Johnson,F,46.0,Savannah,GA,2025-10-17,Partner,Premium
+C0510,Robert Young,M,45.0,Rochester,NY,2023-03-15,Referral,Standard
+C0511,David Moore,M,49.0,Tampa,FL,2025-08-14,Online,Standard
+C0512,David Clark,M,54.0,Austin,TX,2023-02-17,Online,Standard
+C0513,Jessica Lee,F,33.0,Tucson,AZ,2023-05-11,Online,Premium
+C0514,William Johnson,F,67.0,Durham,NC,2026-03-22,Partner,Standard
+C0515,David Harris,F,46.0,Tampa,FL,2023-06-05,Referral,Standard
+C0516,David Harris,F,54.0,Orlando,FL,2025-02-10,Referral,Standard
+C0517,Amanda Moore,M,30.0,Mesa,AZ,2024-04-01,Referral,Standard
+C0518,Laura Jones,M,49.0,Spokane,WA,2023-10-07,Online,Premium
+C0519,Amanda Moore,M,34.0,Springfield,IL,2024-01-10,Online,Premium
+C0520,Jessica Lewis,M,53.0,Augusta,GA,2024-06-02,Partner,Standard
+C0521,Daniel Martin,F,31.0,Charlotte,NC,2024-09-20,Referral,Standard
+C0522,Brian Wilson,F,48.0,Austin,TX,2026-01-21,Online,Premium
+C0523,Lisa Smith,M,42.0,Atlanta,GA,2026-01-11,Online,Standard
+C0524,Michael Wilson,M,46.0,Houston,TX,2023-01-02,Online,Standard
+C0525,James Miller,M,44.0,Rochester,NY,2024-02-02,Online,Enterprise
+C0526,Amanda Williams,F,27.0,Miami,FL,2023-06-25,Sales,Premium
+C0527,William Taylor,F,56.0,Denver,CO,2024-04-15,Online,Premium
+C0528,Ashley Wilson,M,39.0,Raleigh,NC,2026-01-22,Online,Enterprise
+C0529,Amanda Martin,F,35.0,Spokane,WA,2024-12-12,Sales,Standard
+C0530,William Jackson,F,28.0,San Jose,CA,2024-10-02,Partner,Standard
+C0531,Emily Harris,M,33.0,Albany,NY,2025-11-18,Partner,Enterprise
+C0532,Ashley Smith,F,28.0,Los Angeles,CA,2025-03-19,Online,Standard
+C0533,Megan Wilson,F,44.0,Orlando,FL,2024-02-15,Referral,Standard
+C0534,Kevin Thomas,F,64.0,Boulder,CO,2025-03-11,Referral,Standard
+C0535,Sarah Lewis,M,53.0,Chicago,IL,2023-07-06,Online,Premium
+C0536,Nicole Brown,F,34.0,Durham,NC,2024-05-16,Online,Premium
+C0537,Nicole Moore,F,66.0,Los Angeles,CA,2023-04-23,Online,Enterprise
+C0538,Laura Taylor,M,37.0,Naperville,IL,2023-07-08,Online,Standard
+C0539,Kevin Williams,F,53.0,Boulder,CO,2025-12-29,Referral,Standard
+C0540,Kevin Taylor,M,36.0,San Antonio,TX,2023-12-07,Referral,Standard
+C0541,Lisa Brown,F,33.0,Miami,FL,2023-11-10,Referral,Premium
+C0542,Emily Martin,F,55.0,Charlotte,NC,2025-05-09,Sales,Premium
+C0543,Jessica Jackson,M,56.0,Savannah,GA,2023-08-20,Online,Standard
+C0544,Nicole Taylor,F,28.0,Los Angeles,CA,2025-01-02,Partner,Premium
+C0545,Robert Lewis,F,63.0,Houston,TX,2023-03-01,Partner,Standard
+C0546,Rachel Young,F,25.0,Tacoma,WA,2025-09-22,Referral,Standard
+C0547,Chris Johnson,M,40.0,Jacksonville,FL,2025-02-27,Online,Standard
+C0548,Laura Lee,M,35.0,Phoenix,AZ,2025-12-03,Partner,Premium
+C0549,Jessica Clark,F,58.0,Mesa,AZ,2023-10-26,Online,Standard
+C0550,Amanda Davis,M,57.0,San Jose,CA,2024-07-23,Referral,Standard
+C0551,Michael Davis,M,62.0,Spokane,WA,2023-01-06,Online,Premium
+C0552,Amanda Johnson,M,33.0,Aurora,CO,2023-10-04,Sales,Premium
+C0553,William Lewis,M,35.0,Chicago,IL,2024-11-23,Online,Enterprise
+C0554,Megan Lee,M,42.0,Aurora,CO,2025-06-18,Sales,Standard
+C0555,William Martin,F,59.0,New York,NY,2023-09-05,Online,Premium
+C0556,John Lee,F,51.0,Augusta,GA,2024-08-17,Referral,Standard
+C0557,David Taylor,M,32.0,Savannah,GA,2025-08-20,Online,Premium
+C0558,Robert Davis,M,42.0,Spokane,WA,2024-05-06,Online,Premium
+C0559,Daniel Miller,M,47.0,Sacramento,CA,2023-03-24,Partner,Premium
+C0560,John Lewis,F,37.0,Atlanta,GA,2025-01-03,Referral,Standard
+C0561,David Jones,M,33.0,Tampa,FL,2023-12-30,Partner,Standard
+C0562,Kevin Jones,M,43.0,Naperville,IL,2024-10-18,Sales,Premium
+C0563,Kevin Brown,F,40.0,San Antonio,TX,2023-06-05,Online,Standard
+C0564,Robert Davis,F,33.0,Seattle,WA,2023-07-23,Sales,Standard
+C0565,Nicole Jackson,F,35.0,San Jose,CA,2023-03-13,Online,Premium
+C0566,Daniel Brown,M,66.0,Denver,CO,2023-12-29,Online,Premium
+C0567,Megan Smith,M,44.0,Tucson,AZ,2023-07-01,Partner,Standard
+C0568,Nicole Garcia,F,28.0,San Antonio,TX,2024-02-03,Online,Standard
+C0569,Emily Martin,M,34.0,San Jose,CA,2023-10-31,Partner,Enterprise
+C0570,Michael Wilson,M,65.0,Houston,TX,2023-04-28,Online,Premium
+C0571,Laura Thomas,F,48.0,Phoenix,AZ,2023-03-27,Online,Standard
+C0572,Ashley Brown,M,69.0,Chicago,IL,2023-03-18,Partner,Premium
+C0573,Chris Johnson,F,28.0,Sacramento,CA,2023-12-22,Online,Standard
+C0574,Robert Davis,F,27.0,Austin,TX,2023-08-12,Online,Standard
+C0575,Sarah Lee,F,43.0,Atlanta,GA,2025-07-20,Sales,Standard
+C0576,Sarah Jackson,M,50.0,Charlotte,NC,2025-04-08,Online,Standard
+C0577,Sarah Harris,F,35.0,Mesa,AZ,2025-03-01,Partner,Enterprise
+C0578,Lisa Martin,M,22.0,Denver,CO,2025-11-06,Online,Standard
+C0579,James Moore,F,58.0,San Diego,CA,2025-09-05,Online,Standard
+C0580,Nicole Johnson,F,56.0,Seattle,WA,2025-11-02,Online,Standard
+C0581,Emily Moore,M,33.0,Tampa,FL,2024-08-06,Referral,Standard
+C0582,Jessica Thomas,F,25.0,Aurora,CO,2023-07-05,Sales,Premium
+C0583,Kevin Harris,F,57.0,Rochester,NY,2024-09-22,Referral,Standard
+C0584,David Johnson,M,26.0,Durham,NC,2023-04-25,Online,Premium
+C0585,Laura Young,F,54.0,Charlotte,NC,2025-10-19,Online,Standard
+C0586,Brian Garcia,M,37.0,Naperville,IL,2023-11-26,Partner,Premium
+C0587,Megan Brown,M,59.0,Jacksonville,FL,2026-03-23,Online,Premium
+C0588,Robert Anderson,M,42.0,Denver,CO,2023-05-15,Referral,Standard
+C0589,Emily Smith,M,42.0,Mesa,AZ,2023-10-18,Online,Standard
+C0590,Megan Clark,F,48.0,Tampa,FL,2026-01-07,Online,Standard
+C0591,Ashley Garcia,M,34.0,Augusta,GA,2025-01-04,Referral,Enterprise
+C0592,James Thomas,M,34.0,Augusta,GA,2024-08-09,Online,Premium
+C0593,Michael Harris,M,34.0,San Jose,CA,2023-08-22,Online,Premium
+C0594,Jessica Johnson,M,44.0,Sacramento,CA,2024-02-11,Online,Standard
+C0595,Laura Miller,F,36.0,Charlotte,NC,2026-01-30,Referral,Premium
+C0596,Megan Jackson,F,55.0,Raleigh,NC,2025-09-10,Referral,Standard
+C0597,Robert Young,M,52.0,Houston,TX,2024-07-23,Online,Standard
+C0598,Emily Brown,F,52.0,Los Angeles,CA,2025-01-24,Referral,Standard
+C0599,Daniel Anderson,M,51.0,Houston,TX,2025-05-24,Referral,Standard
+C0600,John Young,M,58.0,Mesa,AZ,2024-08-19,Referral,Standard
+C0601,Kevin Anderson,M,42.0,Austin,TX,2025-11-10,Partner,Standard
+C0602,Kevin Johnson,M,22.0,Raleigh,NC,2024-12-20,Online,Enterprise
+C0603,Kevin Taylor,F,59.0,Savannah,GA,2024-06-07,Online,Premium
+C0604,Rachel Williams,M,25.0,Jacksonville,FL,2024-01-09,Online,Standard
+C0605,Chris Williams,F,47.0,Springfield,IL,2023-08-29,Referral,Premium
+C0606,Rachel Taylor,F,31.0,Atlanta,GA,2026-02-06,Online,Standard
+C0607,David Anderson,M,30.0,San Diego,CA,2024-02-05,Sales,Standard
+C0608,Kevin Taylor,M,37.0,Mesa,AZ,2025-09-13,Online,Standard
+C0609,James Anderson,F,61.0,Boulder,CO,2023-06-14,Partner,Standard
+C0610,Rachel Smith,F,26.0,Mesa,AZ,2023-02-16,Online,Standard
+C0611,Amanda Thomas,F,66.0,Orlando,FL,2024-11-08,Partner,Standard
+C0612,Emily Miller,M,49.0,Boulder,CO,2024-12-16,Online,Standard
+C0613,Megan Miller,F,40.0,Phoenix,AZ,2024-03-22,Sales,Standard
+C0614,Rachel Clark,M,28.0,Tacoma,WA,2024-08-31,Referral,Standard
+C0615,Kevin Taylor,M,35.0,Boulder,CO,2023-02-09,Sales,Enterprise
+C0616,Megan Thomas,F,30.0,Tampa,FL,2025-04-02,Referral,Enterprise
+C0617,Daniel Williams,M,64.0,Phoenix,AZ,2024-04-21,Sales,Standard
+C0618,David Jackson,F,66.0,Boulder,CO,2023-03-31,Online,Premium
+C0619,William Clark,M,46.0,Spokane,WA,2024-06-12,Sales,Premium
+C0620,Brian Harris,M,46.0,Tucson,AZ,2023-10-30,Referral,Standard
+C0621,Megan Young,M,47.0,Springfield,IL,2024-10-08,Online,Standard
+C0622,Daniel Moore,M,59.0,San Jose,CA,2023-03-10,Sales,Premium
+C0623,Robert Garcia,F,26.0,Tacoma,WA,2024-02-20,Referral,Standard
+C0624,Rachel Clark,F,66.0,Austin,TX,2025-09-12,Referral,Standard
+C0625,Nicole Wilson,M,57.0,Charlotte,NC,2023-07-01,Online,Standard
+C0626,Daniel Smith,F,50.0,Phoenix,AZ,2023-11-13,Online,Standard
+C0627,Amanda Williams,F,28.0,Savannah,GA,2023-01-25,Partner,Standard
+C0628,Kevin Harris,M,54.0,Boulder,CO,2024-11-02,Online,Standard
+C0629,Nicole Moore,F,35.0,San Antonio,TX,2023-08-27,Online,Premium
+C0630,Jessica Anderson,M,59.0,Raleigh,NC,2023-01-09,Online,Premium
+C0631,Laura Johnson,F,40.0,San Diego,CA,2024-08-02,Sales,Standard
+C0632,James Wilson,F,48.0,Buffalo,NY,2024-05-06,Referral,Standard
+C0633,Brian Wilson,F,29.0,Augusta,GA,2023-12-19,Referral,Premium
+C0634,Sarah Harris,F,48.0,Tucson,AZ,2025-04-19,Partner,Premium
+C0635,Chris Lee,M,51.0,Buffalo,NY,2023-12-19,Online,Premium
+C0636,James Moore,M,27.0,Tucson,AZ,2025-09-06,Partner,Premium
+C0637,Amanda Wilson,F,65.0,Buffalo,NY,2026-03-09,Online,Premium
+C0638,Nicole Jackson,M,48.0,Mesa,AZ,2024-08-18,Partner,Premium
+C0639,Jessica Taylor,F,50.0,Spokane,WA,2023-05-29,Sales,Enterprise
+C0640,Rachel Lee,F,50.0,Durham,NC,2023-07-26,Referral,Premium
+C0641,James Moore,F,62.0,Phoenix,AZ,2024-12-15,Referral,Standard
+C0642,Megan Williams,F,28.0,Buffalo,NY,2025-10-02,Referral,Standard
+C0643,John Smith,M,21.0,Charlotte,NC,2025-01-23,Partner,Standard
+C0644,Chris Thomas,F,28.0,Chicago,IL,2023-12-31,Sales,Standard
+C0645,Rachel Wilson,M,27.0,Phoenix,AZ,2025-02-22,Referral,Enterprise
+C0646,Emily Williams,M,62.0,Tacoma,WA,2025-11-02,Referral,Standard
+C0647,James Garcia,M,22.0,San Antonio,TX,2026-02-01,Sales,Premium
+C0648,Daniel Taylor,F,55.0,Tacoma,WA,2024-08-27,Sales,Standard
+C0649,Nicole Miller,F,59.0,Jacksonville,FL,2023-01-20,Partner,Standard
+C0650,Emily Lee,F,27.0,Seattle,WA,2024-01-04,Referral,Standard
+C0651,Amanda Williams,F,41.0,Phoenix,AZ,2025-05-24,Online,Premium
+C0652,William Lee,F,40.0,Springfield,IL,2025-05-16,Sales,Premium
+C0653,Amanda Williams,M,57.0,Durham,NC,2024-04-11,Partner,Standard
+C0654,David Harris,M,25.0,Orlando,FL,2023-02-23,Sales,Premium
+C0655,Rachel Miller,F,32.0,Springfield,IL,2025-03-28,Online,Standard
+C0656,Nicole Jones,M,66.0,Jacksonville,FL,2023-01-05,Online,Standard
+C0657,Emily Garcia,M,38.0,Aurora,CO,2024-04-24,Referral,Premium
+C0658,Kevin Moore,F,55.0,Buffalo,NY,2024-03-14,Online,Standard
+C0659,Nicole Taylor,F,33.0,Orlando,FL,2025-05-24,Partner,Premium
+C0660,Robert Thomas,F,64.0,Seattle,WA,2025-03-17,Referral,Standard
+C0661,Michael Lee,F,46.0,Tampa,FL,2025-07-17,Referral,Standard
+C0662,Ashley Harris,M,31.0,Seattle,WA,2025-08-23,Referral,Standard
+C0663,John Williams,F,53.0,Chicago,IL,2024-06-10,Partner,Standard
+C0664,David Davis,M,33.0,San Diego,CA,2025-10-28,Online,Standard
+C0665,Robert Taylor,M,58.0,Charlotte,NC,2025-11-13,Online,Standard
+C0666,Megan Clark,F,23.0,Los Angeles,CA,2023-09-13,Sales,Premium
+C0667,Megan Davis,M,33.0,Orlando,FL,2024-02-12,Online,Standard
+C0668,Michael Thomas,F,38.0,Jacksonville,FL,2025-01-02,Online,Standard
+C0669,Laura Lee,F,39.0,Charlotte,NC,2026-01-15,Online,Standard
+C0670,Sarah Jackson,M,29.0,Mesa,AZ,2024-05-25,Referral,Standard
+C0671,Sarah Thomas,M,39.0,Naperville,IL,2024-12-28,Online,Standard
+C0672,David Moore,F,25.0,Boulder,CO,2024-10-13,Partner,Standard
+C0673,Jessica Thomas,M,44.0,Miami,FL,2023-02-16,Sales,Standard
+C0674,Daniel Thomas,F,54.0,Tacoma,WA,2023-03-14,Online,Standard
+C0675,Megan Harris,M,64.0,Tampa,FL,2025-05-09,Partner,Enterprise
+C0676,Ashley Lee,F,62.0,Augusta,GA,2025-09-25,Partner,Premium
+C0677,Kevin Thomas,M,29.0,Savannah,GA,2024-11-10,Sales,Standard
+C0678,Chris Harris,F,60.0,Mesa,AZ,2026-02-28,Online,Premium
+C0679,Laura Taylor,F,31.0,San Antonio,TX,2024-06-21,Referral,Standard
+C0680,Chris Young,M,33.0,Tucson,AZ,2025-05-19,Partner,Standard
+C0681,David Anderson,M,22.0,Boulder,CO,2025-08-23,Online,Premium
+C0682,David Garcia,F,63.0,Mesa,AZ,2024-01-07,Online,Standard
+C0683,James Lee,M,28.0,Naperville,IL,2025-01-27,Online,Standard
+C0684,Jessica Garcia,M,66.0,Seattle,WA,2023-07-18,Sales,Standard
+C0685,Sarah Miller,M,60.0,Seattle,WA,2024-05-25,Referral,Standard
+C0686,David Martin,M,51.0,Springfield,IL,2026-02-01,Sales,Premium
+C0687,Brian Anderson,F,38.0,Aurora,CO,2024-08-22,Online,Premium
+C0688,Michael Young,F,25.0,Springfield,IL,2025-09-30,Sales,Standard
+C0689,James Martin,F,30.0,Albany,NY,2024-09-25,Online,Premium
+C0690,John Jones,F,36.0,Dallas,TX,2023-01-28,Online,Standard
+C0691,Megan Taylor,F,45.0,San Antonio,TX,2025-02-12,Online,Standard
+C0692,Jessica Jones,M,36.0,Tacoma,WA,2023-08-02,Online,Standard
+C0693,Megan Lee,F,51.0,Spokane,WA,2023-11-03,Referral,Standard
+C0694,Rachel Thomas,M,24.0,Naperville,IL,2024-06-01,Online,Standard
+C0695,Jessica Williams,F,60.0,Sacramento,CA,2025-01-29,Referral,Standard
+C0696,Ashley Smith,F,56.0,Springfield,IL,2024-10-15,Online,Standard
+C0697,Kevin Moore,F,51.0,Savannah,GA,2024-05-22,Referral,Standard
+C0698,Jessica Garcia,M,42.0,Boulder,CO,2025-04-02,Online,Premium
+C0699,Jessica Davis,F,63.0,Tacoma,WA,2024-09-09,Referral,Enterprise
+C0700,Rachel Taylor,M,56.0,Aurora,CO,2025-04-26,Online,Standard
+C0701,Daniel Taylor,M,66.0,Tucson,AZ,2025-10-12,Referral,Standard
+C0702,Amanda Harris,M,42.0,Rochester,NY,2025-04-27,Online,Standard
+C0703,John Clark,F,21.0,Savannah,GA,2023-09-22,Online,Standard
+C0704,John Garcia,M,51.0,Durham,NC,2024-07-14,Online,Standard
+C0705,Michael Harris,M,49.0,San Antonio,TX,2025-02-09,Online,Enterprise
+C0706,Michael Smith,F,41.0,Tacoma,WA,2025-05-10,Sales,Premium
+C0707,Lisa Garcia,F,32.0,Atlanta,GA,2024-11-24,Partner,Enterprise
+C0708,Daniel Garcia,F,27.0,Durham,NC,2025-03-06,Referral,Standard
+C0709,Kevin Lewis,F,57.0,Atlanta,GA,2023-02-15,Online,Standard
+C0710,Daniel Williams,F,60.0,Spokane,WA,2025-04-25,Referral,Standard
+C0711,Megan Johnson,F,43.0,Mesa,AZ,2024-09-24,Partner,Standard
+C0712,John Anderson,F,63.0,Phoenix,AZ,2024-04-08,Online,Standard
+C0713,James Lewis,F,39.0,Tacoma,WA,2025-07-16,Online,Premium
+C0714,Emily Miller,M,66.0,Seattle,WA,2023-09-06,Referral,Standard
+C0715,Brian Johnson,M,25.0,Naperville,IL,2025-02-21,Referral,Standard
+C0716,Chris Smith,F,45.0,Phoenix,AZ,2023-11-13,Online,Premium
+C0717,Lisa Lee,M,38.0,Seattle,WA,2026-01-17,Online,Premium
+C0718,Brian Brown,M,64.0,Austin,TX,2023-09-09,Online,Premium
+C0719,Jessica Williams,M,37.0,Augusta,GA,2025-01-28,Partner,Standard
+C0720,John Thomas,M,69.0,Charlotte,NC,2026-02-10,Online,Standard
+C0721,Robert Taylor,M,27.0,Rochester,NY,2026-04-03,Online,Standard
+C0722,Daniel Anderson,F,28.0,Miami,FL,2024-06-02,Online,Enterprise
+C0723,Michael Young,F,56.0,Phoenix,AZ,2024-11-25,Online,Standard
+C0724,Megan Williams,F,45.0,Sacramento,CA,2025-02-21,Online,Standard
+C0725,Ashley Jones,M,21.0,San Diego,CA,2023-09-19,Online,Standard
+C0726,Sarah Young,M,69.0,Sacramento,CA,2026-03-21,Referral,Standard
+C0727,Robert Smith,M,32.0,Atlanta,GA,2025-03-13,Referral,Standard
+C0728,Michael Brown,F,56.0,San Diego,CA,2024-03-04,Sales,Standard
+C0729,James Thomas,M,24.0,Buffalo,NY,2025-08-14,Online,Premium
+C0730,Jessica Garcia,F,29.0,Dallas,TX,2026-01-20,Online,Standard
+C0731,James Moore,M,60.0,Orlando,FL,2026-03-02,Partner,Standard
+C0732,Nicole Brown,M,36.0,San Diego,CA,2025-12-18,Partner,Enterprise
+C0733,Megan Martin,F,50.0,Tacoma,WA,2025-02-16,Referral,Standard
+C0734,Laura Moore,M,47.0,Durham,NC,2023-05-29,Online,Standard
+C0735,Brian Taylor,M,23.0,Augusta,GA,2025-12-10,Partner,Standard
+C0736,Megan Lewis,F,44.0,Tacoma,WA,2023-11-08,Online,Standard
+C0737,Amanda Johnson,F,42.0,Albany,NY,2023-08-06,Referral,Standard
+C0738,Megan Harris,M,62.0,Denver,CO,2023-12-18,Sales,Standard
+C0739,Brian Anderson,F,57.0,Spokane,WA,2025-06-22,Referral,Standard
+C0740,Michael Lee,F,34.0,Houston,TX,2025-04-14,Sales,Standard
+C0741,Amanda Wilson,F,50.0,Springfield,IL,2026-04-14,Online,Standard
+C0742,Daniel Moore,M,49.0,Dallas,TX,2023-07-07,Referral,Standard
+C0743,Jessica Garcia,F,26.0,Buffalo,NY,2024-07-15,Sales,Standard
+C0744,John Moore,M,24.0,Mesa,AZ,2023-08-02,Online,Premium
+C0745,Brian Wilson,M,28.0,Phoenix,AZ,2023-08-29,Referral,Premium
+C0746,Robert Martin,F,65.0,Buffalo,NY,2023-12-21,Partner,Standard
+C0747,Robert Miller,F,54.0,Seattle,WA,2026-02-28,Partner,Enterprise
+C0748,Lisa Taylor,M,36.0,Springfield,IL,2025-09-20,Partner,Standard
+C0749,Laura Miller,M,63.0,Rochester,NY,2024-03-01,Online,Standard
+C0750,Chris Young,F,60.0,Savannah,GA,2025-11-30,Online,Enterprise
+C0751,Emily Smith,F,60.0,Aurora,CO,2024-11-03,Sales,Premium
+C0752,Laura Moore,M,41.0,Chicago,IL,2024-09-04,Referral,Standard
+C0753,James Johnson,F,58.0,Houston,TX,2023-07-26,Online,Standard
+C0754,Laura Smith,M,39.0,Springfield,IL,2024-07-23,Online,Standard
+C0755,Megan Lee,M,24.0,San Diego,CA,2026-03-28,Referral,Standard
+C0756,Lisa Anderson,F,49.0,Miami,FL,2023-01-08,Sales,Standard
+C0757,Lisa Jones,M,53.0,Aurora,CO,2025-02-04,Sales,Standard
+C0758,Emily Moore,M,33.0,Tampa,FL,2023-01-24,Referral,Standard
+C0759,Lisa Clark,F,30.0,Boulder,CO,2023-12-28,Online,Premium
+C0760,Michael Thomas,M,50.0,Raleigh,NC,2026-03-29,Partner,Premium
+C0761,Chris Lee,M,64.0,Houston,TX,2024-02-21,Sales,Premium
+C0762,Megan Williams,F,27.0,Seattle,WA,2023-03-25,Referral,Standard
+C0763,Chris Young,F,50.0,Spokane,WA,2025-12-18,Referral,Standard
+C0764,Sarah Clark,F,29.0,Jacksonville,FL,2023-05-03,Online,Premium
+C0765,Michael Johnson,F,22.0,Augusta,GA,2026-01-03,Online,Standard
+C0766,James Wilson,F,30.0,Naperville,IL,2025-04-19,Online,Standard
+C0767,Michael Thomas,F,25.0,Miami,FL,2023-04-10,Online,Enterprise
+C0768,Jessica Martin,M,29.0,Denver,CO,2023-01-17,Online,Standard
+C0769,David Thomas,F,55.0,Savannah,GA,2025-12-01,Referral,Standard
+C0770,Chris Young,F,22.0,Austin,TX,2025-05-28,Partner,Standard
+C0771,Emily Anderson,M,60.0,Mesa,AZ,2024-07-07,Partner,Premium
+C0772,Nicole Harris,M,44.0,Tucson,AZ,2024-09-02,Partner,Standard
+C0773,Rachel Miller,M,68.0,Seattle,WA,2024-12-24,Online,Standard
+C0774,Emily Brown,M,47.0,Atlanta,GA,2025-10-12,Online,Standard
+C0775,Lisa Taylor,F,66.0,Phoenix,AZ,2024-11-26,Sales,Standard
+C0776,James Harris,F,54.0,Durham,NC,2024-09-06,Referral,Premium
+C0777,Laura Smith,F,45.0,Mesa,AZ,2024-07-20,Partner,Premium
+C0778,Sarah Jones,F,23.0,Tacoma,WA,2024-04-30,Sales,Standard
+C0779,Chris Young,M,68.0,Tucson,AZ,2023-06-03,Online,Premium
+C0780,Kevin Brown,F,65.0,Boulder,CO,2023-09-17,Sales,Premium
+C0781,Sarah Garcia,M,30.0,Dallas,TX,2025-07-03,Partner,Standard
+C0782,David Wilson,M,49.0,Mesa,AZ,2024-10-01,Partner,Standard
+C0783,Chris Brown,F,36.0,Orlando,FL,2025-05-22,Online,Standard
+C0784,Emily Miller,F,67.0,Los Angeles,CA,2025-01-22,Referral,Premium
+C0785,Jessica Lee,F,34.0,Miami,FL,2024-06-17,Sales,Premium
+C0786,John Clark,F,40.0,Aurora,CO,2025-09-16,Referral,Premium
+C0787,Sarah Harris,M,64.0,Aurora,CO,2024-01-22,Partner,Premium
+C0788,David Lewis,F,25.0,San Jose,CA,2026-02-01,Online,Standard
+C0789,Brian Martin,M,33.0,Los Angeles,CA,2026-02-19,Referral,Premium
+C0790,Rachel Williams,M,27.0,San Jose,CA,2024-11-13,Online,Premium
+C0791,Kevin Young,F,43.0,Albany,NY,2025-05-23,Partner,Standard
+C0792,Nicole Johnson,F,53.0,Tucson,AZ,2023-03-04,Sales,Premium
+C0793,Nicole Taylor,M,55.0,Savannah,GA,2025-01-22,Online,Standard
+C0794,Kevin Martin,F,68.0,Naperville,IL,2025-06-12,Online,Standard
+C0795,Ashley Wilson,M,56.0,Springfield,IL,2023-02-13,Online,Standard
+C0796,Sarah Brown,F,49.0,Miami,FL,2023-07-23,Partner,Standard
+C0797,Rachel Jones,M,67.0,Springfield,IL,2025-07-20,Online,Standard
+C0798,Michael Harris,F,65.0,Rochester,NY,2023-12-30,Online,Premium
+C0799,Ashley Taylor,M,26.0,San Antonio,TX,2023-11-13,Partner,Standard
+C0800,James Wilson,F,29.0,Tucson,AZ,2025-06-26,Online,Premium
+C0801,Laura Lee,F,45.0,Denver,CO,2024-12-17,Referral,Standard
+C0802,Ashley Lewis,M,39.0,Orlando,FL,2025-11-16,Online,Standard
+C0803,Sarah Jackson,F,32.0,Denver,CO,2025-01-23,Partner,Standard
+C0804,Kevin Smith,M,21.0,Tampa,FL,2024-09-04,Online,Standard
+C0805,William Jones,M,38.0,Tucson,AZ,2023-11-02,Online,Standard
+C0806,Michael Jones,M,22.0,Albany,NY,2024-01-05,Sales,Premium
+C0807,Amanda Jackson,F,21.0,Houston,TX,2025-08-23,Online,Standard
+C0808,Robert Miller,M,23.0,Atlanta,GA,2024-01-13,Sales,Enterprise
+C0809,Michael Lewis,M,54.0,Tucson,AZ,2024-08-16,Referral,Standard
+C0810,Michael Harris,F,68.0,Tacoma,WA,2025-02-23,Partner,Standard
+C0811,Robert Martin,M,53.0,Tampa,FL,2024-01-06,Partner,Standard
+C0812,Megan Wilson,M,37.0,Los Angeles,CA,2026-03-09,Online,Standard
+C0813,Emily Davis,F,69.0,Mesa,AZ,2025-12-10,Sales,Standard
+C0814,John Moore,M,22.0,Jacksonville,FL,2024-08-17,Partner,Standard
+C0815,David Moore,F,41.0,Augusta,GA,2024-06-21,Referral,Premium
+C0816,Chris Jones,M,63.0,Tacoma,WA,2023-12-03,Partner,Standard
+C0817,Jessica Lee,F,69.0,Springfield,IL,2025-11-06,Sales,Standard
+C0818,John Garcia,M,38.0,Augusta,GA,2024-07-28,Referral,Premium
+C0819,Laura Wilson,M,53.0,San Diego,CA,2025-07-14,Referral,Standard
+C0820,Lisa Davis,F,41.0,Boulder,CO,2023-08-14,Partner,Standard
+C0821,Ashley Lee,F,63.0,Naperville,IL,2026-03-15,Online,Standard
+C0822,William Wilson,F,35.0,Houston,TX,2025-07-04,Online,Standard
+C0823,Daniel Young,F,66.0,Mesa,AZ,2024-05-07,Referral,Premium
+C0824,Nicole Martin,F,32.0,Naperville,IL,2024-10-22,Partner,Standard
+C0825,Megan Clark,M,45.0,Aurora,CO,2023-05-18,Partner,Premium
+C0826,Chris Williams,M,38.0,Sacramento,CA,2023-02-28,Online,Enterprise
+C0827,Lisa Williams,M,46.0,Denver,CO,2025-04-26,Online,Premium
+C0828,Lisa Garcia,M,24.0,Raleigh,NC,2025-03-30,Online,Premium
+C0829,Jessica Brown,F,63.0,Albany,NY,2024-09-13,Online,Premium
+C0830,William Young,F,32.0,Chicago,IL,2023-11-26,Partner,Standard
+C0831,Megan Young,F,31.0,Phoenix,AZ,2025-01-30,Referral,Standard
+C0832,Sarah Clark,F,28.0,Mesa,AZ,2024-03-13,Partner,Standard
+C0833,Brian Lewis,M,61.0,Buffalo,NY,2024-12-09,Partner,Premium
+C0834,Kevin Harris,F,69.0,San Jose,CA,2025-03-17,Partner,Standard
+C0835,Kevin Johnson,F,30.0,Spokane,WA,2025-10-19,Referral,Premium
+C0836,John Jones,M,31.0,Miami,FL,2026-03-19,Referral,Standard
+C0837,Robert Smith,M,43.0,Raleigh,NC,2024-02-11,Sales,Premium
+C0838,Amanda Martin,F,36.0,Durham,NC,2025-10-25,Online,Standard
+C0839,Nicole Brown,F,42.0,Austin,TX,2023-03-30,Referral,Standard
+C0840,Ashley Garcia,F,27.0,Aurora,CO,2024-10-21,Referral,Standard
+C0841,David Moore,F,57.0,Tampa,FL,2026-01-10,Online,Premium
+C0842,Jessica Harris,F,37.0,Savannah,GA,2023-08-23,Online,Standard
+C0843,Daniel Moore,M,47.0,Austin,TX,2025-04-24,Online,Standard
+C0844,Sarah Martin,M,29.0,Boulder,CO,2023-09-23,Online,Standard
+C0845,Lisa Wilson,M,38.0,San Diego,CA,2024-11-16,Sales,Standard
+C0846,Laura Miller,F,43.0,Charlotte,NC,2025-10-10,Partner,Standard
+C0847,Michael Martin,M,59.0,Boulder,CO,2024-05-03,Online,Standard
+C0848,Lisa Brown,M,54.0,Augusta,GA,2026-01-04,Referral,Standard
+C0849,Ashley Williams,M,52.0,Spokane,WA,2026-01-31,Sales,Standard
+C0850,Megan Brown,M,36.0,Albany,NY,2023-02-11,Online,Premium
+C0851,Michael Smith,M,41.0,Denver,CO,2025-04-23,Sales,Enterprise
+C0852,Kevin Smith,M,58.0,San Diego,CA,2025-06-03,Sales,Standard
+C0853,Jessica Garcia,M,41.0,Sacramento,CA,2025-07-17,Referral,Standard
+C0854,Daniel Jackson,F,62.0,Springfield,IL,2024-04-24,Partner,Standard
+C0855,Lisa Jones,F,64.0,San Antonio,TX,2024-07-27,Referral,Standard
+C0856,Rachel Davis,M,27.0,Durham,NC,2023-12-23,Online,Standard
+C0857,Emily Johnson,M,44.0,Spokane,WA,2024-07-08,Referral,Enterprise
+C0858,Daniel Thomas,M,30.0,Jacksonville,FL,2024-02-18,Referral,Standard
+C0859,Michael Wilson,M,30.0,Rochester,NY,2025-06-14,Referral,Standard
+C0860,Laura Miller,F,60.0,Orlando,FL,2023-11-08,Referral,Standard
+C0861,Robert Wilson,F,27.0,Austin,TX,2025-02-04,Sales,Premium
+C0862,Laura Martin,M,23.0,Orlando,FL,2023-06-07,Referral,Standard
+C0863,David Anderson,F,38.0,San Diego,CA,2024-10-23,Online,Standard
+C0864,Ashley Moore,M,63.0,Sacramento,CA,2023-05-13,Online,Standard
+C0865,Amanda Brown,M,60.0,Sacramento,CA,2023-09-12,Referral,Enterprise
+C0866,Daniel Johnson,F,66.0,Phoenix,AZ,2024-08-24,Referral,Enterprise
+C0867,James Brown,M,54.0,Atlanta,GA,2024-10-06,Referral,Standard
+C0868,James Jackson,M,52.0,Denver,CO,2024-04-21,Online,Standard
+C0869,John Lee,M,44.0,Raleigh,NC,2024-07-15,Online,Premium
+C0870,Ashley Miller,F,69.0,Sacramento,CA,2026-01-04,Referral,Enterprise
+C0871,Rachel Brown,M,55.0,Durham,NC,2024-02-25,Partner,Standard
+C0872,Brian Smith,F,34.0,San Antonio,TX,2026-02-20,Online,Standard
+C0873,Emily Wilson,M,54.0,Durham,NC,2024-10-31,Referral,Standard
+C0874,Daniel Smith,M,43.0,Springfield,IL,2025-09-04,Partner,Standard
+C0875,Ashley Anderson,M,40.0,Springfield,IL,2023-08-03,Partner,Standard
+C0876,Amanda Lewis,F,41.0,Phoenix,AZ,2023-01-20,Online,Standard
+C0877,James Lewis,F,38.0,Durham,NC,2024-06-23,Partner,Premium
+C0878,Nicole Wilson,M,40.0,Jacksonville,FL,2023-08-03,Referral,Premium
+C0879,Kevin Brown,F,25.0,Chicago,IL,2023-02-18,Partner,Standard
+C0880,Megan Harris,F,24.0,Aurora,CO,2023-01-13,Online,Standard
+C0881,Rachel Wilson,M,52.0,San Diego,CA,2025-04-08,Online,Standard
+C0882,Ashley Williams,M,53.0,Tacoma,WA,2023-06-13,Partner,Standard
+C0883,Chris Johnson,F,36.0,New York,NY,2025-11-02,Sales,Standard
+C0884,Megan Moore,F,22.0,San Jose,CA,2023-12-01,Referral,Premium
+C0885,Jessica Lewis,F,63.0,Tampa,FL,2025-12-28,Online,Standard
+C0886,David Wilson,F,52.0,Austin,TX,2024-06-04,Online,Premium
+C0887,Ashley Jackson,F,35.0,Tampa,FL,2025-08-09,Partner,Standard
+C0888,Rachel Davis,F,28.0,Jacksonville,FL,2024-12-17,Referral,Standard
+C0889,Rachel Williams,F,61.0,Chicago,IL,2023-05-10,Online,Enterprise
+C0890,Robert Jones,F,34.0,Aurora,CO,2024-06-14,Online,Premium
+C0891,Lisa Johnson,M,69.0,Tampa,FL,2025-01-17,Partner,Standard
+C0892,William Garcia,F,29.0,Augusta,GA,2025-11-20,Partner,Standard
+C0893,Rachel Taylor,M,33.0,Rochester,NY,2024-06-30,Online,Standard
+C0894,John Davis,F,67.0,Jacksonville,FL,2024-01-24,Partner,Premium
+C0895,Megan Thomas,F,25.0,Austin,TX,2026-04-02,Online,Standard
+C0896,Ashley Clark,F,44.0,New York,NY,2024-02-14,Online,Standard
+C0897,Chris Davis,M,46.0,Albany,NY,2025-11-02,Partner,Standard
+C0898,Lisa Moore,F,28.0,Boulder,CO,2024-03-12,Partner,Premium
+C0899,Emily Davis,F,39.0,Phoenix,AZ,2023-10-22,Sales,Standard
+C0900,Ashley Harris,M,50.0,Tucson,AZ,2025-07-28,Partner,Premium
+C0901,David Garcia,F,51.0,Phoenix,AZ,2025-11-19,Online,Standard
+C0902,Daniel Clark,F,32.0,Charlotte,NC,2024-03-09,Partner,Standard
+C0903,Emily Johnson,M,48.0,Chicago,IL,2023-09-11,Online,Standard
+C0904,John Miller,F,22.0,Tampa,FL,2025-01-15,Referral,Standard
+C0905,Robert Martin,F,66.0,Houston,TX,2024-05-07,Referral,Standard
+C0906,Laura Harris,M,65.0,Seattle,WA,2025-12-28,Online,Standard
+C0907,Emily Jones,M,30.0,Chicago,IL,2024-12-24,Online,Enterprise
+C0908,Jessica Williams,M,21.0,Aurora,CO,2025-10-22,Partner,Standard
+C0909,Ashley Miller,M,65.0,Denver,CO,2026-02-25,Online,Premium
+C0910,Robert Jones,F,53.0,Seattle,WA,2025-07-09,Online,Standard
+C0911,Daniel Martin,F,54.0,Aurora,CO,2025-10-06,Referral,Standard
+C0912,William Taylor,M,31.0,Naperville,IL,2025-05-21,Online,Standard
+C0913,James Lee,M,45.0,Savannah,GA,2026-02-24,Sales,Premium
+C0914,James Clark,M,51.0,Seattle,WA,2025-02-01,Referral,Standard
+C0915,Robert Jackson,F,46.0,Seattle,WA,2023-05-13,Sales,Standard
+C0916,Laura Taylor,M,51.0,Los Angeles,CA,2023-08-26,Sales,Standard
+C0917,Rachel Young,F,27.0,Phoenix,AZ,2023-09-20,Online,Standard
+C0918,Daniel Jones,M,69.0,Houston,TX,2023-10-03,Partner,Standard
+C0919,Nicole Harris,M,64.0,Aurora,CO,2024-08-09,Online,Premium
+C0920,James Garcia,M,47.0,Mesa,AZ,2024-10-21,Referral,Standard
+C0921,Emily Jackson,M,65.0,Phoenix,AZ,2024-06-04,Sales,Standard
+C0922,Nicole Moore,M,38.0,Austin,TX,2023-11-28,Referral,Standard
+C0923,Robert Jones,M,67.0,Tacoma,WA,2024-12-18,Online,Standard
+C0924,Lisa Williams,M,38.0,Durham,NC,2025-05-10,Online,Standard
+C0925,Daniel Davis,M,63.0,Spokane,WA,2023-04-08,Partner,Standard
+C0926,Chris Lewis,F,35.0,Spokane,WA,2024-05-09,Partner,Standard
+C0927,Amanda Williams,F,22.0,Tacoma,WA,2023-01-18,Referral,Premium
+C0928,Nicole Clark,M,48.0,Boulder,CO,2023-12-20,Online,Premium
+C0929,Brian Jones,M,63.0,Chicago,IL,2025-09-13,Referral,Premium
+C0930,Robert Brown,M,50.0,Jacksonville,FL,2025-06-23,Sales,Standard
+C0931,Kevin Brown,F,60.0,Sacramento,CA,2026-02-12,Referral,Premium
+C0932,Ashley Miller,M,42.0,San Diego,CA,2024-10-27,Referral,Standard
+C0933,Daniel Williams,M,59.0,Boulder,CO,2024-09-01,Online,Standard
+C0934,Megan Jones,M,44.0,Raleigh,NC,2025-11-15,Referral,Standard
+C0935,John Clark,M,37.0,Jacksonville,FL,2025-05-05,Referral,Standard
+C0936,Chris Lewis,M,37.0,Denver,CO,2025-09-28,Sales,Standard
+C0937,Rachel Lee,M,23.0,Tucson,AZ,2023-06-24,Referral,Standard
+C0938,Michael Johnson,M,21.0,San Diego,CA,2024-01-25,Referral,Standard
+C0939,Robert Young,F,44.0,Sacramento,CA,2024-08-24,Referral,Premium
+C0940,Robert Jackson,F,38.0,Austin,TX,2025-06-14,Online,Standard
+C0941,Chris Harris,F,55.0,Boulder,CO,2026-02-06,Online,Standard
+C0942,David Brown,F,21.0,Los Angeles,CA,2024-08-28,Referral,Premium
+C0943,Amanda Thomas,M,32.0,Mesa,AZ,2024-02-14,Sales,Standard
+C0944,Chris Taylor,M,64.0,San Diego,CA,2024-11-17,Referral,Premium
+C0945,Michael Brown,F,26.0,Naperville,IL,2023-05-12,Referral,Standard
+C0946,Chris Lee,M,47.0,Durham,NC,2023-11-05,Online,Standard
+C0947,Lisa Davis,M,52.0,Miami,FL,2026-03-26,Sales,Standard
+C0948,Chris Johnson,F,43.0,Sacramento,CA,2023-10-22,Sales,Enterprise
+C0949,Daniel Thomas,M,32.0,Buffalo,NY,2024-12-31,Online,Standard
+C0950,Lisa Williams,M,48.0,Sacramento,CA,2023-04-29,Online,Standard
+C0951,Daniel Lewis,M,23.0,Chicago,IL,2024-03-04,Online,Premium
+C0952,John Lewis,M,40.0,Austin,TX,2024-05-01,Partner,Premium
+C0953,Emily Davis,M,55.0,Springfield,IL,2025-02-03,Online,Standard
+C0954,Michael Miller,F,33.0,Mesa,AZ,2024-07-06,Partner,Standard
+C0955,David Taylor,M,55.0,Spokane,WA,2023-04-22,Online,Standard
+C0956,John Harris,M,57.0,Tacoma,WA,2025-11-16,Referral,Standard
+C0957,Daniel Taylor,M,69.0,Savannah,GA,2024-02-01,Online,Premium
+C0958,Brian Davis,M,23.0,Mesa,AZ,2024-01-29,Sales,Enterprise
+C0959,Lisa Anderson,F,53.0,San Antonio,TX,2024-12-15,Sales,Standard
+C0960,Nicole Lee,F,49.0,Augusta,GA,2025-05-13,Online,Premium
+C0961,Nicole Miller,M,68.0,Naperville,IL,2023-08-04,Online,Standard
+C0962,Emily Lee,F,48.0,Albany,NY,2024-01-04,Referral,Standard
+C0963,Daniel Taylor,F,40.0,Boulder,CO,2026-02-04,Referral,Enterprise
+C0964,William Jones,M,33.0,Naperville,IL,2023-04-22,Referral,Premium
+C0965,Chris Taylor,M,29.0,Chicago,IL,2024-03-07,Sales,Standard
+C0966,Nicole Brown,F,34.0,Aurora,CO,2024-05-25,Online,Standard
+C0967,William Martin,M,27.0,Orlando,FL,2024-10-10,Sales,Standard
+C0968,Laura Miller,M,25.0,Sacramento,CA,2025-01-31,Sales,Standard
+C0969,Michael Taylor,M,66.0,Rochester,NY,2023-10-31,Referral,Standard
+C0970,Ashley Lee,M,57.0,Charlotte,NC,2023-10-24,Online,Standard
+C0971,Laura Miller,F,56.0,Tampa,FL,2023-11-20,Online,Standard
+C0972,Megan Smith,F,63.0,Augusta,GA,2024-11-29,Online,Standard
+C0973,Chris Lee,F,27.0,Aurora,CO,2025-07-04,Sales,Premium
+C0974,James Martin,F,52.0,Jacksonville,FL,2025-12-21,Sales,Standard
+C0975,Daniel Martin,M,35.0,Albany,NY,2024-05-13,Online,Standard
+C0976,Laura Lewis,M,64.0,Aurora,CO,2026-02-16,Referral,Premium
+C0977,Brian Smith,M,50.0,Los Angeles,CA,2024-08-11,Online,Standard
+C0978,Sarah Martin,F,54.0,Charlotte,NC,2023-11-03,Partner,Standard
+C0979,Brian Jones,M,60.0,Mesa,AZ,2025-12-18,Online,Standard
+C0980,Sarah Lee,F,25.0,Chicago,IL,2023-08-17,Referral,Enterprise
+C0981,Ashley Wilson,M,61.0,Jacksonville,FL,2023-01-08,Referral,Standard
+C0982,Robert Miller,M,36.0,Tacoma,WA,2025-04-05,Online,Premium
+C0983,David Moore,M,57.0,Miami,FL,2023-05-26,Partner,Standard
+C0984,Emily Brown,F,32.0,Tucson,AZ,2025-09-08,Online,Premium
+C0985,Robert Thomas,M,55.0,Boulder,CO,2023-12-26,Online,Enterprise
+C0986,Lisa Williams,M,38.0,Spokane,WA,2024-04-06,Referral,Premium
+C0987,John Lewis,F,27.0,San Jose,CA,2026-01-13,Partner,Enterprise
+C0988,Michael Moore,M,38.0,Charlotte,NC,2024-06-15,Partner,Standard
+C0989,Chris Garcia,M,45.0,Albany,NY,2024-07-26,Sales,Standard
+C0990,Sarah Williams,M,60.0,Miami,FL,2025-09-09,Partner,Enterprise
+C0991,Jessica Jones,F,40.0,Tacoma,WA,2025-06-01,Referral,Standard
+C0992,John Thomas,F,57.0,Mesa,AZ,2023-07-29,Sales,Standard
+C0993,Emily Smith,F,42.0,Dallas,TX,2023-06-10,Partner,Standard
+C0994,John Williams,F,57.0,San Diego,CA,2023-03-08,Partner,Premium
+C0995,Michael Lewis,F,53.0,Seattle,WA,2024-03-21,Online,Enterprise
+C0996,Laura Jones,F,54.0,Denver,CO,2023-06-03,Online,Standard
+C0997,Ashley Martin,F,58.0,Phoenix,AZ,2023-04-17,Online,Standard
+C0998,John Clark,M,65.0,Sacramento,CA,2025-11-22,Online,Standard
+C0999,Chris Taylor,M,65.0,Aurora,CO,2025-11-28,Online,Premium
+C1000,Amanda Garcia,F,68.0,Orlando,FL,2024-01-03,Online,Standard
+C0011,Laura Thomas,M,45.0,Tampa,FL,2023-02-14,Online,Premium
+C0101,Lisa Lewis,M,36.0,Seattle,WA,2023-10-20,Online,Standard
+C0251,Sarah Thomas,F,69.0,Jacksonville,FL,2025-11-27,Referral,Standard
+C0501,David Smith,F,47.0,Durham,NC,2023-05-11,Sales,Premium
+C0751,Emily Smith,F,60.0,Aurora,CO,2024-11-03,Sales,Premium
