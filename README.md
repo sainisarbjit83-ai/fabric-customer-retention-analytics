@@ -1,6 +1,6 @@
-Customer Retention & Revenue Analytics
+                                         Customer Retention & Revenue Analytics
 An end-to-end Microsoft Fabric analytics project for a fictional subscription-based software company. The solution ingests raw customer, product, and subscription data, profiles and validates it, and moves it through a medallion architecture (Bronze, Silver, Gold) to support customer retention, churn, and revenue reporting in Power BI.
-Portfolio / demo project. All data is fictional and was created for learning and demonstration purposes. See the Disclaimer.
+
 
 Business Objective
 Subscription businesses depend on keeping customers. This project aims to give stakeholders a reliable, well-modeled view of:
@@ -41,11 +41,66 @@ flowchart TD
 Solid boxes are completed; dashed boxes are planned.
 
 Technology Stack
-AreaTechnologyStatusData platformMicrosoft FabricIn useIngestionFabric Data Pipelines (ForEach, If Condition, HTTP connector)In useStorageFabric Lakehouse (Bronze, Silver)In useTransformationDataflows Gen2 / Power QueryIn useValidationSQL (Lakehouse SQL analytics endpoint)In useData profilingMicrosoft Excel (including XLOOKUP)In useVersion controlGit and GitHubIn useDimensional modelFabric Warehouse (T-SQL)PlannedSource databaseSQL ServerPlannedReportingPower BI semantic model, DAX, Power BI reportPlanned
+Area
+Technology
+Status
+Data platform
+Microsoft Fabric
+In use
+Ingestion
+Fabric Data Pipelines (ForEach, If Condition, HTTP connector)
+In use
+Storage
+Fabric Lakehouse (Bronze, Silver)
+In use
+Transformation
+Dataflows Gen2 / Power Query
+In use
+Validation
+SQL (Lakehouse SQL analytics endpoint)
+In use
+Data profiling
+Microsoft Excel (including XLOOKUP)
+In use
+Version control
+Git and GitHub
+In use
+Dimensional model
+Fabric Warehouse (T-SQL)
+Planned
+Source database
+SQL Server
+Planned
+Reporting
+Power BI semantic model, DAX, Power BI report
+Planned
+
 Data Sources
 Current sources
-DatasetFormatRowsBronze tableCustomersCSV1,005Bronze_CustomersProductsExcel30Bronze_ProductsSubscriptionsCSV1,500Bronze_SubscriptionsPlanned source
-DatasetFormatStatusTransactionsSQL ServerPlanned for a later phaseThe source data intentionally contains data-quality issues so that profiling, cleansing, and validation can be demonstrated.
+Dataset
+Format
+Rows
+Bronze table
+Customers
+CSV
+1,005
+Bronze_Customers
+Products
+Excel
+30
+Bronze_Products
+Subscriptions
+CSV
+1,500
+Bronze_Subscriptions
+Planned source
+Dataset
+Format
+Status
+Transactions
+SQL Server
+Planned for a later phase
+The source data intentionally contains data-quality issues so that profiling, cleansing, and validation can be demonstrated.
 
 Data Profiling & Data Quality
 Before building any transformations, each dataset was profiled in Excel to understand its structure and identify issues.
@@ -67,7 +122,23 @@ Subscriptions
 * Active subscriptions with a populated EndDate identified as a business-rule issue
 
 Medallion Architecture
-LayerPurposeFabric itemStatusBronzeRaw ingestion. Preserves source data exactly as received, including quality issues.LH_Bronze (Lakehouse)CompletedSilverCleansed, standardized, and typed data with explicit data-quality validation flags.LH_Silver (Lakehouse)CompletedGoldBusiness-ready dimensional (star schema) model for reporting.Fabric WarehousePlanned
+Layer
+Purpose
+Fabric item
+Status
+Bronze
+Raw ingestion. Preserves source data exactly as received, including quality issues.
+LH_Bronze (Lakehouse)
+Completed
+Silver
+Cleansed, standardized, and typed data with explicit data-quality validation flags.
+LH_Silver (Lakehouse)
+Completed
+Gold
+Business-ready dimensional (star schema) model for reporting.
+Fabric Warehouse
+Planned
+
 Bronze Layer
 Status: Completed
 * Lakehouse: LH_Bronze
@@ -108,9 +179,33 @@ Silver_Subscriptions (DF_Silver_Subscriptions)
 Data Quality Rules
 The Silver layer flags data-quality problems in dedicated validation columns instead of silently modifying or removing records. This keeps issues visible and auditable for downstream decisions.
 EndDateValidation
-ConditionResultEndDate is blankOpenEndDate earlier than StartDateInvalidOtherwiseValidMonthlyFeeValidation
-ConditionResultMonthlyFee is missingMissing MonthlyFeeMonthlyFee <= 0Invalid MonthlyFeeOtherwiseValidStatusEndDateValidation
-ConditionResultStatus = Active and EndDate is populatedInvalidStatus = Churned and EndDate is blankInvalidOtherwiseValid
+Condition
+Result
+EndDate is blank
+Open
+EndDate earlier than StartDate
+Invalid
+Otherwise
+Valid
+MonthlyFeeValidation
+Condition
+Result
+MonthlyFee is missing
+Missing MonthlyFee
+MonthlyFee <= 0
+Invalid MonthlyFee
+Otherwise
+Valid
+StatusEndDateValidation
+Condition
+Result
+Status = Active and EndDate is populated
+Invalid
+Status = Churned and EndDate is blank
+Invalid
+Otherwise
+Valid
+
 Gold Layer
 Status: Planned / Next Phase
 The Gold layer will be built in a Fabric Warehouse as a dimensional star schema:
@@ -147,7 +242,25 @@ Git / Version Control
 The project is version-controlled in GitHub. Work so far includes setting up the repository and folder structure, maintaining project progress documentation, and adding Fabric screenshots. A standard Git workflow is used: status, add, commit, pull --rebase, and push.
 
 Project Status
-PhaseStatusGitHub setup and documentationCompletedData profilingCompletedBronze layerCompletedSilver layerCompletedGold layer (Warehouse star schema)PlannedSQL Server transactions ingestionPlannedPower BI semantic model and reportPlannedMonitoring, lineage, and business definitions documentationPlanned
+Phase
+Status
+GitHub setup and documentation
+Completed
+Data profiling
+Completed
+Bronze layer
+Completed
+Silver layer
+Completed
+Gold layer (Warehouse star schema)
+Planned
+SQL Server transactions ingestion
+Planned
+Power BI semantic model and report
+Planned
+Monitoring, lineage, and business definitions documentation
+Planned
+
 Interview Talking Points
 * Metadata-driven ingestion: One Fabric pipeline uses an array parameter, ForEach, If Condition, and dynamic paths/table names to load multiple CSV and Excel sources without hard-coding each file.
 * Medallion architecture: Why Bronze preserves raw data (traceability, reprocessing) and Silver holds cleansed, typed, validated data.
